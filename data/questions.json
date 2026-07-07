@@ -634,14 +634,14 @@
     "stem": "A client with septic shock has received fluids and antibiotics. Which finding indicates the need for immediate follow-up?",
     "options": [
       "MAP remains 58 mm Hg and urine output is 12 mL/hr",
-      "Temperature decreases from 102.4 F to 100.8 F",
-      "The client asks why blood cultures were collected",
-      "White blood cell count is pending from the laboratory"
+      "Blood cultures were collected after the first dose of antibiotics",
+      "Temperature remains 101.8 F after the first antibiotic dose",
+      "White blood cell count is 18,000/mm3"
     ],
     "correctAnswers": [
       "MAP remains 58 mm Hg and urine output is 12 mL/hr"
     ],
-    "rationale": "The correct answer is MAP remains 58 mm Hg and urine output is 12 mL/hr. Persistent MAP below 65 and low urine output indicate inadequate perfusion despite treatment.\n\nWhy it fits: Sepsis becomes a perfusion emergency when infection triggers systemic inflammation, vasodilation, capillary leak, and impaired oxygen delivery. Older adults may show hypothermia or new confusion rather than a dramatic fever.",
+    "rationale": "The correct answer is MAP remains 58 mm Hg and urine output is 12 mL/hr. After fluids and antibiotics, a MAP below 65 with oliguria shows ongoing inadequate organ perfusion and needs immediate follow-up. The other findings are clinically relevant, but they do not show the same immediate perfusion failure.\n\nWhy it fits: Septic shock causes vasodilation, capillary leak, and impaired oxygen delivery. Persistent hypotension and low urine output mean the kidneys and other organs are still not receiving enough blood flow despite initial treatment.",
     "subtopic": "Septic shock"
   },
   {
@@ -1311,15 +1311,15 @@
     "sourceDetail": "NURS401 Week 1 course materials: Pediatric shock compensation",
     "stem": "The nurse is assessing a child at risk for shock. Which assessment trend should be reported immediately?",
     "options": [
+      "Temperature decreases but heart rate remains slightly above expected for age",
+      "Child is less irritable but continues to refuse solid foods",
       "Heart rate rising, capillary refill lengthening, and urine output falling",
-      "Temperature returning to normal after antipyretic therapy",
-      "Child becoming more interactive after oral rehydration",
-      "Respiratory rate decreasing to the expected range"
+      "Respiratory rate remains mildly elevated while SpO2 is 97% on room air"
     ],
     "correctAnswers": [
       "Heart rate rising, capillary refill lengthening, and urine output falling"
     ],
-    "rationale": "The correct answer is Heart rate rising, capillary refill lengthening, and urine output falling. Worsening heart rate, capillary refill, and urine output suggest declining perfusion.\n\nWhy it fits: Children can maintain blood pressure until late shock by increasing heart rate and vascular tone. Tachycardia, delayed capillary refill, lethargy, cool extremities, and decreased urine output are more useful early warning cues than blood pressure alone.",
+    "rationale": "The correct answer is Heart rate rising, capillary refill lengthening, and urine output falling. This is a worsening perfusion trend: the child is becoming more tachycardic, peripheral refill is slowing, and renal output is dropping. Those cues suggest compensation is failing and should be reported immediately.\n\nWhy it fits: Children can maintain blood pressure until late shock, so trends in heart rate, capillary refill, mental status, skin perfusion, and urine output are critical early clues. The other findings still require assessment, but they are not the same pattern of progressive circulatory compromise.",
     "subtopic": "Pediatric shock compensation"
   },
   {
@@ -2385,17 +2385,17 @@
     "sourceType": "Original generated practice",
     "sourceConfidence": "course-notes-derived",
     "sourceDetail": "NURS401 Week 2 course materials: Hypermagnesemia",
-    "stem": "A client with end-stage kidney disease has been taking milk of magnesia daily. The client is somnolent with absent deep tendon reflexes, respiratory rate 8/min, and BP 86/50. Which imbalance is most likely?",
+    "stem": "A client with chronic kidney disease reports using an over-the-counter laxative several times this week. Which assessment finding would most strongly support magnesium toxicity?",
     "options": [
-      "Hypermagnesemia",
-      "Hypomagnesemia",
-      "Hyponatremia",
-      "Opioid-related respiratory depression"
+      "Diminished deep tendon reflexes with increasing drowsiness",
+      "Tremors with positive Chvostek sign and muscle cramps",
+      "Confusion with headache and new seizure activity",
+      "Muscle weakness with U waves on the ECG"
     ],
     "correctAnswers": [
-      "Hypermagnesemia"
+      "Diminished deep tendon reflexes with increasing drowsiness"
     ],
-    "rationale": "The correct answer is Hypermagnesemia. Magnesium intake with impaired renal clearance can cause toxicity with depressed reflexes, hypotension, somnolence, and respiratory depression.\n\nWhy it fits: Excess magnesium depresses neuromuscular, respiratory, and cardiac function. Renal failure and magnesium-containing products are a high-risk combination; absent reflexes and respiratory depression are late-danger cues.",
+    "rationale": "The correct answer is Diminished deep tendon reflexes with increasing drowsiness. Many over-the-counter laxatives and antacids contain magnesium, and impaired kidney function reduces magnesium excretion. As magnesium rises, neuromuscular activity is depressed, so decreasing reflexes and somnolence are early clues that can progress to hypotension, bradycardia, and respiratory depression.\n\nWhy it fits: Hypermagnesemia is a depressant pattern. The nurse should connect reduced renal clearance plus magnesium exposure with loss of reflexes, sedation, and slowed cardiorespiratory function.\n\nThe other options point elsewhere: tremors and Chvostek sign suggest hypocalcemia or neuromuscular irritability, headache and seizure activity fit severe sodium disturbance, and U waves fit hypokalemia.",
     "subtopic": "Hypermagnesemia"
   },
   {
@@ -2753,15 +2753,15 @@
     "sourceDetail": "NURS401 Week 2 course materials: Refeeding syndrome",
     "stem": "Which action is most appropriate for a client at high risk for refeeding syndrome?",
     "options": [
-      "Start nutrition cautiously and monitor phosphate, potassium, magnesium, and respiratory status",
-      "Begin full-calorie feeding immediately to correct malnutrition quickly",
-      "Hold electrolyte monitoring unless the client has kidney failure",
-      "Monitor glucose only because carbohydrate intake is the main trigger"
+      "Check blood glucose and daily weights to guide calorie advancement",
+      "Monitor electrolytes only if vomiting, diarrhea, or arrhythmias occur",
+      "Advance to goal calories over the first 24 hours if baseline electrolytes are normal",
+      "Start nutrition cautiously and monitor phosphate, potassium, magnesium, and respiratory status"
     ],
     "correctAnswers": [
       "Start nutrition cautiously and monitor phosphate, potassium, magnesium, and respiratory status"
     ],
-    "rationale": "The correct answer is Start nutrition cautiously and monitor phosphate, potassium, magnesium, and respiratory status. High-risk clients need careful caloric advancement and close electrolyte and clinical monitoring.\n\nWhy it fits: Refeeding after severe malnutrition drives phosphate, potassium, and magnesium into cells as insulin rises. Low phosphate is especially dangerous because respiratory and cardiac muscles need ATP to function.",
+    "rationale": "The correct answer is Start nutrition cautiously and monitor phosphate, potassium, magnesium, and respiratory status. Refeeding syndrome is caused by the insulin response to renewed nutrition, which drives phosphate, potassium, and magnesium into cells. A client can deteriorate even if baseline electrolytes are normal, so calories should be advanced cautiously with proactive electrolyte and clinical monitoring.\n\nWhy it fits: Phosphate is especially important because ATP-dependent tissues, including respiratory and cardiac muscle, can fail when phosphate drops. Glucose and daily weights are useful but incomplete; waiting for vomiting, diarrhea, arrhythmias, or rapid goal feeding misses the prevention window.",
     "subtopic": "Refeeding syndrome"
   },
   {
@@ -3970,14 +3970,14 @@
     "stem": "An older adult with dysphagia coughs while eating and later develops fever, crackles in the right lower lung, increased sputum, and SpO2 89%. Which complication is most likely?",
     "options": [
       "Aspiration pneumonia",
+      "Atelectasis related to impaired cough and mucus retention",
       "Pulmonary embolism from a leg clot",
-      "Atelectasis from shallow breathing after meals",
-      "Bronchospasm triggered by swallowing cold liquids"
+      "Heart failure exacerbation with pulmonary congestion"
     ],
     "correctAnswers": [
       "Aspiration pneumonia"
     ],
-    "rationale": "The correct answer is Aspiration pneumonia. Aspiration of oral or gastric contents can cause lower respiratory infection and impaired gas exchange.\n\nWhy it fits: Aspiration risk rises when swallowing is impaired or protective reflexes are reduced. Coughing with meals, wet voice, dysphagia, fever, crackles, and desaturation point to material entering the airway and causing infection or inflammation.",
+    "rationale": "The correct answer is Aspiration pneumonia. Dysphagia with coughing during meals points to aspiration, and the later fever, increased sputum, crackles in the right lower lung, and low oxygen saturation suggest infection/inflammation in the lower airway after aspirated material entered the lungs.\n\nWhy it fits: Aspiration often affects dependent lung areas and can present with fever, crackles, sputum, and impaired gas exchange. Atelectasis, pulmonary embolism, and heart failure can also cause respiratory symptoms, but they do not explain the meal-related coughing plus infectious lower-lobe pattern as well.",
     "subtopic": "Aspiration pneumonia"
   },
   {
@@ -4084,13 +4084,13 @@
     "options": [
       "Impaired gas exchange with risk for sepsis",
       "Ineffective airway clearance from thick secretions",
-      "Readiness for enhanced coping",
-      "Deficient knowledge about the antibiotic regimen"
+      "Hyperthermia related to infectious process",
+      "Risk for deficient fluid volume related to fever and tachypnea"
     ],
     "correctAnswers": [
       "Impaired gas exchange with risk for sepsis"
     ],
-    "rationale": "The correct answer is Impaired gas exchange with risk for sepsis. Fever, tachycardia, tachypnea, crackles, and oxygen need indicate active respiratory compromise and possible systemic infection.\n\nWhy it fits: Pneumonia fills alveoli with inflammatory fluid and exudate, which impairs gas exchange. Older adults may present with confusion, tachypnea, hypoxemia, weakness, or poor intake in addition to cough and fever.",
+    "rationale": "The correct answer is Impaired gas exchange with risk for sepsis. The oxygen requirement, SpO2 of 91%, tachypnea, crackles, fever, and tachycardia show that pneumonia is already impairing oxygenation and may be progressing systemically. Airway clearance, hyperthermia, and fluid-volume risk all matter, but gas exchange and possible sepsis are the highest priorities.\n\nWhy it fits: Pneumonia fills alveoli with inflammatory fluid and exudate, which interferes with oxygen movement across the alveolar-capillary membrane. In an older adult, increased oxygen need plus abnormal vital signs should push the nurse to prioritize oxygenation and deterioration risk before teaching or comfort-focused problems.",
     "subtopic": "Pneumonia"
   },
   {
@@ -4247,17 +4247,17 @@
     "sourceType": "Original generated practice",
     "sourceConfidence": "course-notes-derived",
     "sourceDetail": "NURS401 Week 2 course materials: Pulmonary edema",
-    "stem": "Which finding best differentiates pulmonary edema from uncomplicated fluid volume deficit?",
+    "stem": "A client with heart failure develops sudden severe dyspnea. Which finding most strongly supports pulmonary edema rather than pneumonia?",
     "options": [
-      "Crackles, JVD, and acute dyspnea",
-      "Dry mucous membranes and orthostatic dizziness",
-      "Flat neck veins and scant concentrated urine after diarrhea",
-      "Thirst after working outside in heat"
+      "Diffuse crackles with pink frothy sputum",
+      "Fever with localized crackles and purulent sputum",
+      "Pleuritic chest pain with unilateral decreased breath sounds",
+      "Wheezing that improves after bronchodilator therapy"
     ],
     "correctAnswers": [
-      "Crackles, JVD, and acute dyspnea"
+      "Diffuse crackles with pink frothy sputum"
     ],
-    "rationale": "The correct answer is Crackles, JVD, and acute dyspnea. Crackles, JVD, and dyspnea suggest excess intravascular/pulmonary fluid. The other findings suggest deficit.\n\nWhy it fits: Pulmonary edema is fluid in the alveoli or interstitium that severely impairs oxygenation. Pink frothy sputum, diffuse crackles, acute dyspnea, anxiety, and low oxygen saturation point to a rapid respiratory priority.",
+    "rationale": "The correct answer is Diffuse crackles with pink frothy sputum. In pulmonary edema, fluid backs up into the lung interstitium and alveoli, which causes acute dyspnea, hypoxemia, diffuse crackles, anxiety, and sometimes pink frothy sputum. The heart failure history makes this pattern especially concerning for cardiogenic pulmonary edema.\n\nWhy it fits: Pulmonary edema is primarily a fluid/congestion problem, so the breath sounds are often diffuse rather than limited to one lobe. Pink frothy sputum is a classic clue that fluid is entering the alveoli.\n\nThe other options point to different respiratory problems: fever with purulent sputum fits pneumonia, unilateral decreased breath sounds with pleuritic pain suggests pneumothorax or another unilateral pleural process, and wheezing that improves with bronchodilator therapy fits bronchospasm.",
     "subtopic": "Pulmonary edema"
   },
   {
@@ -4816,14 +4816,14 @@
     "stem": "A client startles when the nurse approaches from behind to change a dressing. Which action is best?",
     "options": [
       "Pause, explain what needs to happen, ask permission to continue, and offer a choice when possible",
-      "Continue quickly so the dressing is finished",
-      "Tell the client the reaction is inappropriate",
-      "Ask the client to describe any past trauma before providing care"
+      "Ask the client to describe any past trauma before providing care",
+      "Finish gathering supplies at the bedside before explaining the procedure",
+      "Reassure the client that the dressing change will only take a few minutes"
     ],
     "correctAnswers": [
       "Pause, explain what needs to happen, ask permission to continue, and offer a choice when possible"
     ],
-    "rationale": "The correct answer is Pause, explain what needs to happen, ask permission to continue, and offer a choice when possible. Safety, choice, explanation, and consent reduce threat. Trauma history is not required to practice respectfully.\n\nWhy it fits: Trauma-informed care does not require knowing the client's trauma history. It uses safety, explanation, consent, choice, collaboration, and predictable communication to reduce threat during care.",
+    "rationale": "The correct answer is Pause, explain what needs to happen, ask permission to continue, and offer a choice when possible. The startle response is a cue that the client may feel unsafe or surprised. Trauma-informed care reduces threat by pausing, orienting the client, asking permission, and giving control where it is clinically possible.\n\nWhy it fits: Trauma-informed care does not require the client to disclose trauma before respectful care begins. Efficiency and reassurance may sound helpful, but they do not address the loss of control created by approaching from behind and beginning care before the client is ready.",
     "subtopic": "Trauma-informed care"
   },
   {
@@ -5129,14 +5129,14 @@
     "stem": "A client with limited English proficiency nods during medication teaching. Which action best evaluates understanding?",
     "options": [
       "Use a qualified interpreter and ask the client to teach back the medication plan",
-      "Assume nodding means understanding",
+      "Ask yes/no questions to confirm the client understands",
       "Ask the adult daughter to interpret all clinical information",
-      "Speak louder and repeat the same words"
+      "Provide written medication instructions in English and review them slowly"
     ],
     "correctAnswers": [
       "Use a qualified interpreter and ask the client to teach back the medication plan"
     ],
-    "rationale": "The correct answer is Use a qualified interpreter and ask the client to teach back the medication plan. Language access and teach-back are needed. Nodding does not prove understanding, and family interpretation can be unsafe.\n\nWhy it fits: Teaching fails when the client is too sick, uncomfortable, stressed, sedated, or unsupported to process information. The nurse first assesses barriers such as pain, nausea, literacy, language, culture, and practical resources.",
+    "rationale": "The correct answer is Use a qualified interpreter and ask the client to teach back the medication plan. Limited English proficiency makes nodding, yes/no questions, and English-only written instructions unreliable ways to evaluate understanding. A qualified interpreter provides language access, and teach-back shows whether the client can explain the medication plan in their own words.\n\nWhy it fits: Teach-back evaluates the effectiveness of teaching rather than asking the client to self-report understanding. Family members may support the client, but they should not replace a qualified interpreter for clinical medication teaching.",
     "subtopic": "Readiness to learn"
   },
   {
