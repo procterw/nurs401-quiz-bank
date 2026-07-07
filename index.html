@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NURS 401 Quiz Bank</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body class="practice-page">
+    <header class="topbar">
+      <h1>NURS 401 Quiz Bank</h1>
+      <nav class="topbar-tabs" aria-label="Study tools">
+        <a class="topbar-tab active" href="index.html" aria-current="page">Practice questions</a>
+      </nav>
+    </header>
+
+    <main class="layout">
+      <section class="workspace">
+        <section class="question-panel" aria-live="polite">
+          <div class="question-summary" aria-live="polite">
+            <span><strong id="questionsLeftCount">0</strong> questions left</span>
+          </div>
+
+          <div id="emptyState" class="empty-state">
+            <h2 id="emptyTitle">No matching questions</h2>
+            <p id="emptyMessage">Adjust the filters to continue practicing.</p>
+          </div>
+
+          <article id="questionCard" class="question-card hidden">
+            <div class="question-card-header">
+              <h2 id="questionStem"></h2>
+            </div>
+
+            <form id="answerForm" class="answers"></form>
+
+            <div class="practice-actions">
+              <button id="previousButton" type="button">Previous</button>
+              <div class="practice-actions-right">
+                <button id="submitButton" type="button" class="hidden">Submit</button>
+                <button id="nextButton" type="button">Next</button>
+              </div>
+            </div>
+
+            <section id="feedback" class="feedback hidden" aria-live="polite"></section>
+            <div class="question-id-row" aria-label="Question actions">
+              <button id="flagQuestionButton" type="button" aria-pressed="false">Flag for review</button>
+              <span id="reportQuestionStatus" class="question-report-status" aria-live="polite"></span>
+            </div>
+          </article>
+        </section>
+
+        <aside class="right-sidebar">
+          <section class="filters-panel" aria-label="Question filters">
+            <div class="panel-heading">
+              <h2>Filters</h2>
+            </div>
+            <div id="filtersContent" class="filters">
+              <label class="field">
+                <span>Week</span>
+                <select id="weekFilter"></select>
+              </label>
+
+              <label class="field">
+                <span>Source</span>
+                <select id="sourceFilter"></select>
+              </label>
+
+              <label class="field">
+                <span>Review</span>
+                <select id="reviewFilter">
+                  <option value="">Unanswered / incorrect</option>
+                  <option value="flagged">Flagged questions</option>
+                </select>
+              </label>
+
+              <button id="resetAnsweredButton" type="button">Reset answered questions</button>
+            </div>
+          </section>
+
+          <section class="study-support-panel" aria-label="Relevant definitions">
+            <div class="panel-heading">
+              <h2>Definitions</h2>
+              <span id="studySupportStatus">0 definitions</span>
+            </div>
+            <div class="study-support-actions">
+              <button id="defineButton" type="button">Show definitions</button>
+            </div>
+            <div id="definitionList" class="definition-list"></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+
+    <script src="app.js?v=20260707-source-filter-v2"></script>
+  </body>
+</html>

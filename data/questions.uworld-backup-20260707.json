@@ -1,0 +1,1187 @@
+[
+  {
+    "id": 1,
+    "qid": "53064",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53064",
+    "stem": "The nurse is screening clients for those at risk for developing hypermagnesemia. Which of the following factors would increase a client's risk for developing hypermagnesemia?",
+    "options": [
+      "malnutrition",
+      "hyperparathyroidism",
+      "glucocorticoid therapy",
+      "end-stage kidney disease"
+    ],
+    "correctAnswers": [
+      "end-stage kidney disease"
+    ],
+    "rationale": "Hypermagnesemia is an elevated serum magnesium level (ie, >2.1 mEq/L [1.05 mmol/L]).  Signs and symptoms include nausea, diminished or absent deep tendon reflexes, somnolence, bradycardia, and hypotension.  Severe hypermagnesemia may progress to respiratory failure, flaccid quadriplegia, or even cardiac arrest.\n\nRisk factors for hypermagnesemia include end-stage kidney disease (due to impaired excretion of magnesium by the kidneys) and excess intake of magnesium (eg, excessive magnesium-containing antacid use, IV magnesium sulfate therapy) (Option 4).\n\n(Option 1)  Malnutrition is a risk factor for hypomagnesemia (decreased serum magnesium level), not hypermagnesemia.  Additional risk factors for hypomagnesemia include diuretic use, excessive alcohol use, and irritable bowel syndrome.\n\n(Option 2)  Hyperparathyroidism is a risk factor for hypercalcemia (elevated serum calcium level), not hypermagnesemia.  Additional risk factors for hypercalcemia include prolonged immobilization, bone tumors, and thiazide diuretic use.\n\n(Option 3)  Glucocorticoid therapy (eg, prednisone) is a risk factor for hypokalemia (low serum potassium level), not hypermagnesemia.  Additional risk factors for hypokalemia include gastrointestinal losses (eg, nasogastric suctioning, diarrhea), polyuria (excessive urination), and hyperaldosteronism.\n\nEducational objective: Risk factors for hypermagnesemia include end-stage kidney disease due to impaired excretion of magnesium by the kidneys and excess intake of magnesium (eg, excessive magnesium-containing antacid use, IV magnesium sulfate therapy).",
+    "subtopic": "Hypermagnesemia"
+  },
+  {
+    "id": 2,
+    "qid": "44002",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 44002",
+    "stem": "The nurse reviews clinical data for a client diagnosed with pneumonia and exacerbation of chronic obstructive pulmonary disease. Which clinical finding is the priority to report to the health care provider? Click the exhibit button for additional information.",
+    "options": [
+      "Arterial pH of 7.35",
+      "PaCO2 of 59 mm Hg (7.85 kPa)",
+      "PaO2 of 50 mm Hg (6.65 kPa)",
+      "Respiratory rate of 27/min"
+    ],
+    "correctAnswers": [
+      "PaO2 of 50 mm Hg (6.65 kPa)"
+    ],
+    "rationale": "Chronic obstructive pulmonary disease (COPD) is a progressive respiratory disease caused by alveolar destruction and loss of lung elasticity resulting in impaired gas exchange.  Normally, as healthy individuals move air in and out of the lungs (ie, ventilation), blood flows to the lungs (ie, perfusion) to exchange O2 and CO2 between alveoli and blood vessels.  However, the pathologic changes in lung tissue that occur in COPD cause clients to have mismatched ventilation and perfusion, resulting in chronically elevated CO2 and decreased O2 levels in the blood.\n\nAlthough a slightly decreased PaO2 level (normal: 80-100 mm Hg [10.6-13.3 kPa]) may be an expected finding for a client with COPD, a PaO2 <60 mm Hg (7.98 kPa) is indicative of severe hypoxemia that can lead to respiratory arrest.  The nurse should immediately report the finding to the health care provider (Option 3).\n\n(Options 1 and 2)  Chronic CO2 retention (ie, PaCO2 >45 mm Hg [5.98 kPa]) with compensated respiratory acidosis (normal arterial pH: 7.35-7.45) is expected in clients with COPD.\n\n(Option 4)  Clients with COPD may have a naturally elevated respiratory rate (ie, respirations >20/min) secondary to impaired gas exchange.  Therefore, reporting an abnormal PaO2 level is the priority.\n\nEducational objective: Slight decreases from the normal PaO2 level may be an expected finding for a client with chronic obstructive pulmonary disease; however, a PaO2 <60 mm Hg (7.98 kPa) is indicative of severe hypoxemia requiring the nurse to immediately report the finding to the health care provider.",
+    "subtopic": "COPD hypoxemia"
+  },
+  {
+    "id": 3,
+    "qid": "52908",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 52908",
+    "stem": "The nurse is screening clients for those at risk for developing hypercalcemia. Which of the following factors would increase a client's risk for developing hypercalcemia? Select all that apply.",
+    "options": [
+      "dehydration",
+      "bone malignancy",
+      "acute pancreatitis",
+      "hyperparathyroidism",
+      "frequent laxative use"
+    ],
+    "correctAnswers": [
+      "dehydration",
+      "bone malignancy",
+      "hyperparathyroidism"
+    ],
+    "rationale": "Hypercalcemia (ie, serum calcium level >10.5 mg/dL [2.62 mmol/L]) is excess calcium concentration in the blood.  Hypercalcemia leads to decreased neuromuscular excitability, which can lead to smooth, cardiac, and skeletal muscle dysfunction.\n\nFactors that increase a client's risk for developing hypercalcemia include:\n\nDehydration, which causes hemoconcentration (ie, increased concentration of calcium in the blood due to less water being present) (Option 1)\n\nBone malignancy, which causes osteoclastic activity (ie, breaking down of bone) and bone resorption, leading to increased calcium in the bloodstream (Option 2)\n\nThiazide diuretic use, which causes decreased excretion of calcium, particularly in clients with decreased renal clearance (eg, chronic kidney disease)\n\nHyperparathyroidism (ie, an increase in parathyroid hormone), which stimulates the reabsorption of calcium (Option 4)\n\n(Option 3)  Acute pancreatitis causes hypocalcemia, not hypercalcemia, due to the increase of pancreatic enzymes that causes calcium to precipitate in the abdomen instead of the vascular system.\n\n(Option 5)  Frequent laxative use causes hypermagnesemia, not hypercalcemia, due to the high concentration of magnesium in laxatives.\n\nEducational objective: Hypercalcemia (ie, serum calcium level >10.5 mg/dL [2.62 mmol/L]) can be caused by bone malignancy, thiazide diuretic use, or hyperparathyroidism.",
+    "subtopic": "Hypercalcemia"
+  },
+  {
+    "id": 4,
+    "qid": "52895",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52895",
+    "stem": "The nurse is observing a staff member caring for a client with symptomatic hypocalcemia. The nurse should intervene if the staff member is observed",
+    "options": [
+      "preparing to administer IV potassium phosphate to the client",
+      "applying padding to the side rails of the client's bed",
+      "providing the client with foods high in vitamin D",
+      "preparing the client for an electrocardiogram"
+    ],
+    "correctAnswers": [
+      "preparing to administer IV potassium phosphate to the client"
+    ],
+    "rationale": "Hypocalcemia (serum calcium level <9.0 mg/dL [2.25 mmol/L]) results in increased neuromuscular excitability, which can lead to smooth, cardiac, and skeletal muscle dysfunction.  Potential causes of hypocalcemia include acute pancreatitis, chronic alcohol use, renal insufficiency, and tumor lysis syndrome.  Life-threatening complications associated with hypocalcemia include laryngospasm and respiratory arrest.\n\nTreatment for clients with symptomatic (eg, Chvostek and Trousseau signs, dysrhythmias) hypocalcemia includes administration of IV calcium gluconate.  Because calcium and phosphorous have an inverse relationship, administration of potassium phosphate is not indicated for clients with hypocalcemia because potassium phosphate would decrease serum calcium levels and further exacerbate symptoms (Option 1).  Potassium phosphate is indicated for clients with hypophosphatemia.\n\n(Option 2)  The nurse should implement seizure precautions (eg, pad side rails of the client's bed, ensure oxygen and suction are at the client's bedside) because hypocalcemia can cause seizure activity.\n\n(Option 3)  Clients with hypocalcemia should increase dietary intake of both calcium and vitamin D to achieve therapeutic serum calcium levels.  Vitamin D enhances the absorption of calcium in the intestine.\n\n(Option 4)  The nurse should prepare the client for an electrocardiogram to provide a baseline assessment of cardiac functioning and to monitor for any abnormalities.\n\nEducational objective: Hypocalcemia results in increased neuromuscular excitability, which can lead to smooth, cardiac, and skeletal muscle dysfunction. Treatment for clients with symptomatic hypocalcemia includes administration of IV calcium gluconate.",
+    "subtopic": "Hypocalcemia"
+  },
+  {
+    "id": 5,
+    "qid": "51890",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 51890",
+    "stem": "The nurse is caring for a pediatric client with croup. Which of the following complications should the nurse recognize the client is at risk for developing? Select all that apply.",
+    "options": [
+      "dehydration",
+      "barrel chest",
+      "splenomegaly",
+      "airway obstruction",
+      "permanent hearing impairment"
+    ],
+    "correctAnswers": [
+      "dehydration",
+      "airway obstruction"
+    ],
+    "rationale": "Croup (ie, laryngotracheitis) is a respiratory condition affecting the upper airway, causing laryngeal and tracheal inflammation that leads to subglottic edema and narrowing.  It typically begins with a brief period of influenza-like symptoms (eg, rhinorrhea, congestion, fever), followed by the abrupt onset of a harsh, barking cough.  Many viruses cause croup; however, the most common etiologic agent is parainfluenza.\n\nClients with croup are at increased risk for the following complications:\n\nDehydration due to fever and altered nutritional intake during periods of increased work of breathing (eg, retractions) (Option 1)\n\nAirway obstruction related to swelling and narrowing of the upper airway structures (Option 4)\n\n(Option 2)  Chronic hyperinflation of the lungs (eg, asthma, cystic fibrosis) can increase the anteroposterior-to-transverse diameter ratio of the chest, resulting in a barrel-shaped appearance of the chest.\n\n(Option 3)  Clients with infectious mononucleosis, not croup, are at increased risk for organ enlargement (eg, hepatosplenomegaly).\n\n(Option 5)  Although clients with upper respiratory conditions may experience a secondary bacterial ear infection (eg, acute otitis media), permanent hearing impairment is caused by recurrent, chronic ear infections.\n\nEducational objective: Croup (ie, laryngotracheitis) is a respiratory condition affecting the upper airway, causing laryngeal and tracheal inflammation. Complications include dehydration related to fever and altered nutritional intake, as well as airway obstruction related to the swelling and narrowing of upper respiratory structures.",
+    "subtopic": "Croup complications"
+  },
+  {
+    "id": 6,
+    "qid": "52782",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52782",
+    "stem": "The nurse is screening clients for those at risk for developing metabolic alkalosis. The nurse should recognize that the client at risk for developing metabolic alkalosis is the client who takes",
+    "options": [
+      "aspirin",
+      "potassium chloride",
+      "albuterol",
+      "sodium bicarbonate"
+    ],
+    "correctAnswers": [
+      "sodium bicarbonate"
+    ],
+    "rationale": "Metabolic alkalosis is identified by a pH >7.45 and increased HCO3−.  PaCO2 may be normal or increased as the respiratory system attempts to correct the pH by retaining CO2 through hypoventilation (compensated metabolic alkalosis).\n\nCauses of metabolic alkalosis include:\n\nExcessive bicarbonate intake (eg, sodium bicarbonate) (Option 4)\n\nLoss of acidic gastric secretions (eg, excessive vomiting, suctioning)\n\nExcessive use of potassium-wasting diuretics (eg, hydrochlorothiazide)\n\nManagement of metabolic alkalosis focuses on identifying and treating the cause (eg, administering antiemetics to reduce loss of gastric secretions loss) and promoting renal HCO3− excretion (eg, fluids, electrolyte replacement).\n\n(Options 1 and 3)  Taking aspirin, a salicylate (acid), and albuterol increases the risk for metabolic acidosis.  Other causes of metabolic acidosis include conditions that decrease HCO3− (eg, diarrhea), infusion of chloride-containing fluids (eg, 0.9% sodium chloride), and conditions that increase acid in the blood (eg, diabetic ketoacidosis, renal impairment).\n\n(Option 2)  Excess HCO3− lowers serum potassium levels, resulting in hypokalemia.  Potassium supplements (eg, potassium chloride) may be administered to correct hypokalemia and lower HCO3−.\n\nEducational objective: Metabolic alkalosis is identified by a pH >7.45 with increased HCO3− and normal (or increased if compensated) PaCO2. Causes of metabolic alkalosis include excessive bicarbonate intake (eg, sodium bicarbonate), loss of gastric acid secretions, and excessive use of potassium-wasting diuretics.",
+    "subtopic": "Metabolic alkalosis"
+  },
+  {
+    "id": 7,
+    "qid": "52772",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 52772",
+    "stem": "The nurse is planning a staff education program about incentive spirometry. Which of the following information should the nurse include? Select all that apply.",
+    "options": [
+      "\"Clients should take shallow breaths while using an incentive spirometer.\"",
+      "\"Clients who are immobile should use an incentive spirometer.\"",
+      "\"Incentive spirometry can thin respiratory secretions.\"",
+      "\"Incentive spirometry can prevent pneumonia.\"",
+      "\"Incentive spirometry expands the alveoli.\""
+    ],
+    "correctAnswers": [
+      "\"Clients who are immobile should use an incentive spirometer.\"",
+      "\"Incentive spirometry can prevent pneumonia.\"",
+      "\"Incentive spirometry expands the alveoli.\""
+    ],
+    "rationale": "An incentive spirometer (IS) is a device that facilitates lung expansion by promoting deep inhalation.  Risk factors for decreased expansion of the lungs include surgery, immobility, and pain (Option 2).  The nurse should encourage the client to use the IS to prevent the development of respiratory complications (eg, atelectasis, pneumonia) (Option 4).\n\nWhen using the IS, the client should inhale slowly to raise the piston to the goal marker, hold the inhaled breath for approximately 3 seconds, then slowly exhale.  This deep inhalation encourages airflow into the lungs and expands the alveoli (Option 5).\n\n(Option 1)  The client should be encouraged to take slow, deep breaths while using the IS to effectively expand the lungs.\n\n(Option 3)  After using the IS, the client should cough to help expectorate respiratory secretions.  However, the IS does not thin secretions.\n\nEducational objective: An incentive spirometer is a device that facilitates lung expansion by promoting deep inhalation and expansion of the alveoli to prevent the development of respiratory complications (eg, atelectasis, pneumonia). Risk factors for decreased lung expansion include surgery, pain, and immobility.",
+    "subtopic": "Incentive spirometry"
+  },
+  {
+    "id": 8,
+    "qid": "53066",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 53066",
+    "stem": "The nurse is caring for a newly admitted 54-year-old client with headache, facial flushing, warm skin, absent deep tendon reflexes, increased somnolence, milk of magnesia use, and end-stage kidney disease. Which potential interventions are appropriate? Select all that apply.",
+    "options": [
+      "Prepare the client for dialysis.",
+      "Administer IV calcium gluconate.",
+      "Apply padding to the client's bed rails.",
+      "Initiate continuous cardiac monitoring."
+    ],
+    "correctAnswers": [
+      "Prepare the client for dialysis.",
+      "Administer IV calcium gluconate.",
+      "Initiate continuous cardiac monitoring."
+    ],
+    "rationale": "Hypermagnesemia is an elevated serum magnesium level (ie, >2.1 mEq/L [1.05 mmol/L]).  Risk factors for hypermagnesemia include impaired excretion of magnesium (eg, due to kidney disease) or excess intake of magnesium (eg, excessive magnesium-containing antacid use [eg, milk of magnesia] or IV magnesium sulfate therapy).\n\nSigns and symptoms of hypermagnesemia include nausea, diminished or absent deep tendon reflexes, somnolence (increased drowsiness), bradycardia, and hypotension.  Severe hypermagnesemia may develop into respiratory failure, flaccid quadriplegia, or even cardiac arrest.\n\nAppropriate interventions for hypermagnesemia include:\n\nPreparing clients with preexisting impaired renal function for dialysis.  Clients with hypermagnesemia and adequate renal function may require only diuretics and increased fluids.\n\nAdministering IV calcium gluconate to promote removal of excess magnesium and reverse effects on cardiac muscle.\n\nInitiating continuous cardiac monitoring to identify cardiovascular changes because hypermagnesemia can progress to cardiac arrest and even death.\n\nInitiating seizure precautions (eg, padding the bed rails, decreasing environmental stimuli) is not appropriate for clients with hypermagnesemia.  This is an appropriate intervention for clients with hypocalcemia (decreased serum calcium levels) who are at increased risk for nervous system stimulation (eg, seizures).\n\nEducational objective: Hypermagnesemia is an elevated serum magnesium level (ie, >2.1 mEq/L [1.05 mmol/L]). Appropriate interventions include preparing the client for dialysis (if preexisting impaired renal function is present), administering IV calcium gluconate, and initiating continuous cardiac monitoring.",
+    "subtopic": "Hypermagnesemia"
+  },
+  {
+    "id": 9,
+    "qid": "52827",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52827",
+    "stem": "The nurse is reviewing the medical record of a client with respiratory alkalosis. The nurse should recognize that this condition most likely resulted from",
+    "options": [
+      "anxiety",
+      "chronic pain",
+      "atelectasis",
+      "airway obstruction"
+    ],
+    "correctAnswers": [
+      "anxiety"
+    ],
+    "rationale": "Acid-base imbalances\n\nImbalance\n\nCommon causes\n\nCompensatory mechanism\n\nMetabolic acidosis\n\nDiabetic ketoacidosis\n\nLactic acidosis\n\nDiarrhea\n\nDrugs (eg, aspirin)\n\nRenal failure (inability to regulate HCO3− & H+ levels)\n\nHyperventilation blows off CO2, causing ↓ CO2 & ↑ pH\n\nMetabolic alkalosis\n\nLoss of gastric contents (eg, vomiting, nasogastric suction)\n\nExcessive diuresis\n\nHypoventilation retains CO2, causing ↑ CO2 & ↓ pH\n\nRespiratory acidosis\n\nHypoventilation (eg, CNS depression, COPD)\n\nKidneys retain HCO3−, causing ↑ HCO3− & ↑ pH\n\nRespiratory alkalosis\n\nHyperventilation (eg, anxiety, pain)\n\nKidneys excrete HCO3−, causing ↓ HCO3− & ↓ pH\n\nCOPD = chronic obstructive pulmonary disease.\n\nRespiratory alkalosis is an acid-base imbalance characterized by an increased pH (ie, >7.45) and decreased PaCO2 (ie, <35 mm Hg [4.66 kPa]), with normal (uncompensated) bicarbonate (HCO3−) (ie, 21-28 mEq/L [21-28 mmol/L]) or decreased (compensated) HCO3− (ie, <21 mEq/L [21 mmol/L]).  Respiratory alkalosis occurs due to hyperventilation; increased respirations \"blow off\" acidic carbon dioxide (CO2), which increases the pH.\n\nCauses of respiratory alkalosis include:\n\nAnxiety, acute pain, and fear, which cause hyperventilation (Option 1)\n\nConditions that affect the brainstem (eg, meningitis, head injury, salicylate poisoning), which can increase respiratory drive\n\nInappropriate mechanical ventilation settings (eg, increased respiratory rate)\n\n(Option 2)  Acute, not chronic, pain can result in hyperventilation and cause respiratory alkalosis.  Acute pain should be treated promptly to normalize respiration.\n\n(Options 3 and 4)  Atelectasis and airway obstruction are causes of respiratory acidosis, not alkalosis, because they cause decreased ventilation.  Hypoventilation results in retention of acidic CO2, decreasing the pH.\n\nEducational objective: Respiratory alkalosis occurs due to hyperventilation as increased respirations \"blow off\" acidic carbon dioxide, which increases the pH. Causes of respiratory alkalosis include anxiety, conditions that stimulate brainstem respiratory control (eg, head injury), and inappropriate mechanical ventilation settings.",
+    "subtopic": "Respiratory alkalosis"
+  },
+  {
+    "id": 10,
+    "qid": "52695",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52695",
+    "stem": "The nurse is observing a staff member caring for a client who has a pulmonary embolism. The nurse should intervene if the staff member is observed",
+    "options": [
+      "initiating an IV infusion of heparin",
+      "administering acetaminophen to the client",
+      "placing the client in the supine position",
+      "obtaining a blood specimen for ABG analysis"
+    ],
+    "correctAnswers": [
+      "placing the client in the supine position"
+    ],
+    "rationale": "Pulmonary embolism (PE) is a life-threatening condition that occurs when a blood clot, fat or air embolus, or tissue (eg, tumor) travels into the pulmonary circulation and obstructs blood flow to the lung.  A common cause of PE is a venous thromboembolism (VTE), which can occur in clients with hypercoagulability (eg, pregnancy), endothelial damage (eg, surgery), and venous stasis (eg, immobility).\n\nInterventions focus on restoring and/or maintaining pulmonary circulation, ventilation, and gas exchange.  The nurse should place the client in the high Fowler position, rather than the supine position, to encourage chest expansion (Option 3).  In addition, the nurse should provide supplemental oxygen titrated to maintain SpO2 ≥90%.\n\n(Option 1)  Anticoagulation (eg, IV heparin, subcutaneous enoxaparin) should be initiated immediately for most clients with PE to inhibit further VTE development.  Vena cava filter placement can be used to trap emboli in clients for whom anticoagulants are contraindicated (eg, recent surgery, hemorrhagic stroke).\n\n(Option 2)  Administering analgesics (eg, acetaminophen) is appropriate because clients who have pain typically take shallow breaths, which can further impair ventilation.\n\n(Option 4)  The nurse should monitor ABG results because the client is at risk for acid-base imbalances (eg, respiratory alkalosis followed by respiratory acidosis) due to altered perfusion.\n\nEducational objective: Pulmonary embolism is a life-threatening condition that occurs when a pulmonary artery is obstructed. Interventions include placing the client in the high Fowler position, providing oxygen, initiating anticoagulation therapy (eg, heparin), administering analgesics, and monitoring ABG results.",
+    "subtopic": "Pulmonary embolism"
+  },
+  {
+    "id": 11,
+    "qid": "51866",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 51866",
+    "stem": "The nurse is assessing a pediatric client who has epiglottitis. Which of the following findings would be consistent with the condition? Select all that apply.",
+    "options": [
+      "drooling",
+      "rhinorrhea",
+      "restlessness",
+      "tripod posture",
+      "wet, forceful cough",
+      "sudden-onset fever"
+    ],
+    "correctAnswers": [
+      "drooling",
+      "restlessness",
+      "tripod posture",
+      "sudden-onset fever"
+    ],
+    "rationale": "Epiglottitis, a sudden-onset medical emergency often secondary to Haemophilus influenzae type b infection, causes severe inflammatory obstruction above and around the glottis.  Epiglottitis typically progresses from having no symptoms to completely occluding the airway within hours.  Clients often sit in the tripod position (ie, upright and leaning forward with the chin and tongue sticking out) to attempt to make inhalation easier.\n\nEpiglottitis is a medical emergency because edema can rapidly progress to tracheal occlusion, causing sudden, life-threatening airway obstruction.  Manifestations include:\n\nThe 4 Ds:  Dysphonia (muffled voice), Dysphagia (difficulty swallowing), Drooling, and respiratory Distress (Option 1)\n\nToxic appearance (eg, restlessness, agitation, irritability) (Option 3)\n\nForward-leaning posture (eg, tripod position) (Option 4)\n\nSudden-onset, high fever (Option 6)\n\nSevere sore throat\n\n(Option 2)  Rhinorrhea (eg, runny nose) can result from a variety of causes, but is typically associated with allergies or viral infections (eg, influenza, common cold).  It is not associated with epiglottitis.\n\n(Option 5)  A wet, forceful cough occurs with irritation or infection in the lower airways that results in mucus production (eg, pneumonia).  It is not associated with epiglottitis.\n\nEducational objective: Epiglottitis (inflammation of the epiglottis) is usually caused by bacterial infection of the upper airway (eg, Haemophilus influenzae type b). Manifestations include drooling, restlessness, tripod posture, and sudden-onset fever.",
+    "subtopic": "Epiglottitis"
+  },
+  {
+    "id": 12,
+    "qid": "60933",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 60933",
+    "stem": "The nurse is admitting a client with newly diagnosed hyperkalemia. Which of the following orders for the client should the nurse expect to receive? Select all that apply.",
+    "options": [
+      "Administer PO lisinopril.",
+      "Administer IV furosemide.",
+      "Place the client on NPO status.",
+      "Initiate continuous cardiac monitoring.",
+      "Administer an infusion of IV insulin with dextrose."
+    ],
+    "correctAnswers": [
+      "Administer IV furosemide.",
+      "Initiate continuous cardiac monitoring.",
+      "Administer an infusion of IV insulin with dextrose."
+    ],
+    "rationale": "Hyperkalemia (ie, elevated serum potassium level) occurs with increased intake of potassium, decreased excretion of potassium, or potassium shifting inside the body.\n\nInterventions for a client with hyperkalemia may include:\n\nAdministering IV furosemide (ie, a \"potassium-wasting\" diuretic) to increase the amount of potassium excreted through the urine (Option 2).\n\nInitiating continuous cardiac monitoring to observe for dysrhythmias because hyperkalemia alters the electric signal that conducts the heart and can lead to lethal ventricular dysrhythmias (eg, ventricular fibrillation, ventricular tachycardia) (Option 4).\n\nAdministering an infusion of IV insulin with dextrose to shift potassium from the extracellular space to the intracellular space to lower serum potassium levels.  Because insulin transports both glucose and potassium into the cell, IV dextrose is administered in combination with insulin to prevent hypoglycemia (Option 5).\n\n(Option 1)  ACE inhibitors (eg, lisinopril) decrease aldosterone secretion, which alters the regulation of sodium and potassium.  ACE inhibitors can increase serum potassium levels and are not appropriate for clients with hyperkalemia.\n\n(Option 3)  NPO status is not indicated.  Instead, the nurse should teach the client to avoid foods high in potassium (eg, dried fruits; leafy, green vegetables) and salt substitutes, which often contain potassium.\n\nEducational objective: Hyperkalemia (ie, elevated serum potassium level) occurs with increased intake of potassium, decreased excretion of potassium, or potassium shifting inside the body. Interventions to treat hyperkalemia include administering furosemide, initiating continuous cardiac monitoring, and administering IV insulin with dextrose.",
+    "subtopic": "Hyperkalemia"
+  },
+  {
+    "id": 13,
+    "qid": "53056",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 53056",
+    "stem": "The nurse is screening clients for those at risk for developing hypomagnesemia. Which of the following factors would increase a client's risk for developing hypomagnesemia? Select all that apply.",
+    "options": [
+      "diuretic use",
+      "malnutrition",
+      "excessive sweating",
+      "hyperaldosteronism",
+      "irritable bowel syndrome"
+    ],
+    "correctAnswers": [
+      "diuretic use",
+      "malnutrition",
+      "irritable bowel syndrome"
+    ],
+    "rationale": "Hypomagnesemia refers to a decreased serum magnesium level (normal 1.3-2.1 mEq/L [0.65-1.05 mmol/L]).  Risk factors for developing hypomagnesemia include:\n\nUse of diuretics and certain antibiotics (eg, aminoglycosides, amphotericin) due to renal loss of magnesium (Option 1)\n\nMalnutrition or alcohol use due to inadequate intake of magnesium (Option 2)\n\nIrritable bowel syndrome due to gastrointestinal loss/malabsorption of magnesium (Option 5)\n\nLaxative misuse or diarrhea from decreased absorption of magnesium\n\nClinical manifestations of hypomagnesemia include cardiovascular changes (eg, ventricular dysrhythmias) and neuromuscular excitability (eg, muscle spasms, tremors, hyperreflexia, seizures), similar to hypocalcemia.\n\n(Option 3)  Insensible water losses (eg, excessive sweating, hyperventilation) lead to hypernatremia (ie, increased serum sodium), not hypomagnesemia.\n\n(Option 4)  Hyperaldosteronism (ie, increased secretion of aldosterone) causes decreased sodium excretion, leading to hypernatremia, not hypomagnesemia.  Additional causes of hypernatremia include inadequate water intake, diarrhea, and osmotic diuretic therapy.\n\nEducational objective: Hypomagnesemia refers to a decreased serum magnesium level (normal 1.3-2.1 mEq/L [0.65-1.05 mmol/L]). Risk factors for hypomagnesemia include diuretic use, malnutrition, and malabsorption (eg, irritable bowel syndrome).",
+    "subtopic": "Hypomagnesemia"
+  },
+  {
+    "id": 14,
+    "qid": "77898",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 77898",
+    "stem": "The nurse is caring for a client with hypophosphatemia. Which of the following actions should the nurse take?",
+    "options": [
+      "Administer furosemide to the client.",
+      "Implement seizure precautions for the client.",
+      "Request a prescription for IV insulin for the client.",
+      "Monitor the client's ECG for tall, peaked T waves."
+    ],
+    "correctAnswers": [
+      "Implement seizure precautions for the client."
+    ],
+    "rationale": "Phosphate is an electrolyte that plays a significant role in cellular function, including energy production.  Phosphate is a fundamental component of adenosine triphosphate (ATP), which is the energy source for almost all cellular dependent processes in the body.  A decreased serum phosphate level (ie, hypophosphatemia) can result in a decreased supply of ATP, which leads to cellular dysfunction because the cell lacks the energy to carry out essential processes.\n\nHypophosphatemia causes ion gradients (eg, sodium-potassium pump) to fail, impairing cellular electrical activity.  This destabilizes the resting membrane potential of neurons, resulting in hyperexcitability and uncontrolled neuronal firing that may lead to seizures.  Therefore, seizure precautions should be implemented in clients with hypophosphatemia to ensure safety (Option 2).\n\n(Option 1)  Furosemide is a loop diuretic used to increase urinary output in clients with fluid overload.  Furosemide promotes renal excretion of electrolytes, including phosphate, and can worsen hypophosphatemia.\n\n(Option 3)  IV insulin is used to treat clients with diabetic ketoacidosis.  Insulin shifts phosphate intracellularly, reducing the serum phosphate level.\n\n(Option 4)  Tall, peaked T waves on ECG is characteristic of hyperkalemia (increased serum potassium level), not hypophosphatemia.\n\nEducational objective: Phosphate is a fundamental component of adenosine triphosphate (ATP), the energy source for almost all cellular dependent processes in the body. Hypophosphatemia results in decreased ATP, which causes electrical dysfunction of the cells and uncontrolled neuronal firing that can lead to seizures.",
+    "subtopic": "Hypophosphatemia"
+  },
+  {
+    "id": 15,
+    "qid": "55974",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 55974",
+    "stem": "The nurse is caring for assigned clients. The nurse should recognize that the client at risk for developing hyponatremia is the client who is receiving",
+    "options": [
+      "insulin",
+      "5% dextrose in water",
+      "calcitonin",
+      "sodium polystyrene sulfonate"
+    ],
+    "correctAnswers": [
+      "5% dextrose in water"
+    ],
+    "rationale": "Hyponatremia (decreased serum sodium level) is associated with alterations in fluid balance.  Water loss (eg, dehydration, diuretics) can lead to hyponatremia because \"sodium follows water.\"  Water retention may cause dilutional hyponatremia.\n\nCommon causes of dilutional hyponatremia include:\n\nThe gain of more water than sodium, which occurs in clients with syndrome of inappropriate diuretic hormone or primary (ie, psychogenic) polydipsia or in those receiving enemas, tube feedings, or hypotonic fluids (eg, 5% dextrose in water) (Option 2)\n\nThe loss of more sodium than water, which occurs with fluid replacement after large volumes of fluid loss (eg, vomiting, diarrhea) without adequate sodium content\n\n(Option 1)  Insulin causes potassium to shift into cells and can cause hypokalemia (decreased serum potassium level), not hyponatremia.\n\n(Option 3)  Calcitonin lowers serum calcium levels by inhibiting calcium resorption from osteoclast activity and promoting the excretion of calcium through the kidneys, which can cause hypocalcemia, not hyponatremia.\n\n(Option 4)  Sodium polystyrene sulfonate binds with potassium in the gastrointestinal system so potassium can be excreted in waste; it is used for the treatment of hyperkalemia, and excessive use can result in hypokalemia,  not hyponatremia.\n\nEducational objective: Hyponatremia is most often associated with alterations in fluid balance. Dilutional hyponatremia is often caused by the loss of more sodium than water or the gain of more water than sodium (eg, hypotonic fluids [eg, 5% dextrose in water]).",
+    "subtopic": "Hyponatremia"
+  },
+  {
+    "id": 16,
+    "qid": "53076",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53076",
+    "stem": "The nurse is caring for a client who has hyperphosphatemia. Which of the following actions should the nurse take? Select all that apply.",
+    "options": [
+      "Obtain a blood specimen to check the client's serum calcium level.",
+      "Obtain IV calcium gluconate from the pharmacy.",
+      "Implement a fluid restriction for the client.",
+      "Administer subcutaneous calcitonin.",
+      "Administer PO calcium carbonate."
+    ],
+    "correctAnswers": [
+      "Obtain a blood specimen to check the client's serum calcium level.",
+      "Obtain IV calcium gluconate from the pharmacy.",
+      "Administer PO calcium carbonate."
+    ],
+    "rationale": "Hyperphosphatemia (ie, serum phosphate level >4.5 mg/dL [1.45 mmol/L]) is commonly caused by renal injury, tumor lysis syndrome, or hypoparathyroidism.  Phosphate binds to calcium in the body, and when serum phosphate levels are higher than normal, hypocalcemia can develop as increased levels of phosphate reduce the amount of available calcium in the bloodstream.\n\nHyperphosphatemia is managed by reducing the amount of phosphate in circulation and correcting hypocalcemia.  The nurse should expect to monitor serum calcium levels, administer IV calcium gluconate to correct hypocalcemia, and administer phosphate binder medications (eg, PO calcium carbonate) to limit the absorption of phosphate through the gastrointestinal system (Options 1, 2, and 5).\n\n(Option 3)  PO and IV fluids are beneficial in the treatment of hyperphosphatemia to flush excess phosphate out of the body through the kidneys.\n\n(Option 4)  Calcitonin lowers serum calcium levels by inhibiting bone resorption and increasing excretion of calcium through the kidneys, which could worsen hypocalcemia caused by increased serum phosphate levels.\n\nEducational objective: Hyperphosphatemia (ie, serum phosphate level >4.5 mg/dL [1.45 mmol/L]) is commonly caused by renal injury, tumor lysis syndrome, or hypoparathyroidism. Nursing interventions for hyperphosphatemia include monitoring serum calcium levels and administering calcium gluconate and phosphate binder medications.",
+    "subtopic": "Hyperphosphatemia"
+  },
+  {
+    "id": 17,
+    "qid": "63472",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 63472",
+    "stem": "The nurse is caring for a client who has hypomagnesemia and is receiving magnesium sulfate. Which of the following findings would be essential to follow up?",
+    "options": [
+      "flushing of the face",
+      "urine output of 35 mL/hr",
+      "respiratory rate of 14/min",
+      "diminished deep tendon reflexes"
+    ],
+    "correctAnswers": [
+      "diminished deep tendon reflexes"
+    ],
+    "rationale": "Magnesium sulfate is an electrolyte solution used to correct severe hypomagnesemia (ie, decreased serum magnesium levels).  Hypomagnesemia can result in overexcitement of the neurotransmitters responsible for muscle contraction (acetylcholine), resulting in hyperactive reflexes, tetany, and seizures.\n\nClients receiving magnesium sulfate are at risk for magnesium toxicity, which is characterized by an altered level of consciousness (eg, somnolence), respiratory depression, and diminished or absent deep tendon reflexes (Option 4).  Signs of magnesium toxicity are essential to follow up to prevent complications (eg, muscle paralysis, cardiac arrest).  Discontinuation of magnesium sulfate and administration of calcium gluconate can reverse the effects of magnesium toxicity.\n\n(Option 1)  Magnesium sulfate causes relaxation of the vascular smooth muscle, leading to vasodilation.  Vasodilation may cause flushing and feelings of warmth and does not require follow-up.\n\n(Option 2)  Oliguria (ie, urine output <30 mL/hr) increases the risk for magnesium toxicity due to inadequate magnesium excretion by the kidneys.  A urine output of 35 mL/hr is a normal finding and does not require follow-up.\n\n(Option 3)  Respiratory depression (ie, respiratory rate <12/min) is associated with magnesium toxicity due to oversuppression of neurotransmitters.  A respiratory rate of 14/min is a normal finding and does not require follow-up.\n\nEducational objective: Magnesium sulfate is an electrolyte solution used to correct severe hypomagnesemia (ie, decreased serum magnesium levels). Signs of magnesium toxicity (eg, diminished/absent deep tendon reflexes) require follow-up to prevent complications (eg, muscle paralysis, cardiac arrest).",
+    "subtopic": "Magnesium toxicity"
+  },
+  {
+    "id": 18,
+    "qid": "53030",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53030",
+    "stem": "The nurse is caring for a client with dehydration. The nurse should recognize that the client is at highest risk for developing",
+    "options": [
+      "pulmonary edema",
+      "hypovolemic shock",
+      "chronic kidney disease",
+      "dilutional hyponatremia"
+    ],
+    "correctAnswers": [
+      "hypovolemic shock"
+    ],
+    "rationale": "Dehydration is a fluid volume deficit that can occur secondary to inadequate fluid intake and/or gastrointestinal (eg, diarrhea, vomiting), renal (eg, diuretics), and integumentary (eg, excessive sweating) fluid volume loss.  Clinical features of dehydration include increased thirst, poor skin turgor, dry mucous membranes, tachycardia (increased heart rate), and decreased urine output.\n\nWithout fluid volume replacement (eg, oral and IV fluid therapy), a client with dehydration has an increased risk for hypovolemic shock (inability to perfuse the organs due to low fluid volume) (Option 2).\n\n(Option 1)  Pulmonary edema occurs due to a buildup of fluid in the lungs and is associated with hypervolemia.  Excess fluid rapidly leaks across the capillary membranes into the alveoli, causing impaired gas exchange.\n\n(Option 3)  Clients with dehydration are at increased risk for acute kidney injury, not chronic kidney disease, due to reduced blood flow to the kidneys.\n\n(Option 4)  Dilutional hyponatremia (water intoxication) occurs when the serum sodium concentration is decreased due to an excess of free water in the body and is commonly associated with syndrome of inappropriate antidiuretic hormone, not dehydration.\n\nEducational objective: Dehydration is a fluid volume deficit that can occur secondary to inadequate fluid intake and/or gastrointestinal, renal, and integumentary fluid volume loss. Without fluid volume replacement (eg, oral and IV fluid therapy), a client with dehydration has an increased risk for hypovolemic shock.",
+    "subtopic": "Dehydration and hypovolemic shock"
+  },
+  {
+    "id": 19,
+    "qid": "77901",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 77901",
+    "stem": "The nurse is caring for a client who has mild hypophosphatemia. Which of the following foods would be appropriate to offer the client? Select all that apply.",
+    "options": [
+      "milk",
+      "almonds",
+      "eggs",
+      "avocado",
+      "yogurt"
+    ],
+    "correctAnswers": [
+      "milk",
+      "almonds",
+      "eggs",
+      "yogurt"
+    ],
+    "rationale": "Phosphate is an electrolyte that plays a vital role in many body functions, including bone health, energy production, and oxygen delivery.  Hypophosphatemia (ie, decreased serum phosphate level) can occur because of decreased dietary intake and impaired absorption of phosphate in the gastrointestinal (GI) tract.  Clients who have hypophosphatemia should increase dietary phosphorus intake to increase the serum phosphate level.\n\nFoods high in phosphorus include:\n\nDairy products (eg, milk, cheese, yogurt) (Options 1 and 5)\n\nNuts (eg, almonds), grains, and seeds (Option 2)\n\nBeef, fish, poultry, and eggs (Option 3)\n\nProcessed cereals (eg, wheat, bran)\n\nClients should also increase their intake of vitamin D, which enhances phosphate absorption in the GI tract and promotes reabsorption of phosphate in the kidneys.\n\n(Option 4)  Avocados are high in potassium, but do not contain a significant amount of phosphorus.\n\nEducational objective: Hypophosphatemia can occur due to decreased dietary intake of phosphorus. Clients who have hypophosphatemia should consume foods that are high in phosphorus, which include dairy products (eg, milk, cheese yogurt), nuts, seeds, grains, beef, fish, poultry, and eggs.",
+    "subtopic": "Hypophosphatemia"
+  },
+  {
+    "id": 20,
+    "qid": "53046",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 53046",
+    "stem": "The nurse is assessing a client with hypernatremia and dehydration. Which of the following findings would the nurse expect to obtain? Select all that apply.",
+    "options": [
+      "bradycardia",
+      "generalized weakness",
+      "tingling of the lips and fingers",
+      "dry mucous membranes",
+      "restlessness"
+    ],
+    "correctAnswers": [
+      "generalized weakness",
+      "dry mucous membranes",
+      "restlessness"
+    ],
+    "rationale": "Hypernatremia (ie, serum sodium level >145 mEq/L [145 mmol/L]) leads to increased plasma osmolality.  To correct this imbalance, water is pulled into the extracellular fluid, which leads to cell shrinkage.  Hypernatremia results from excessive sodium intake, decreased sodium excretion, inadequate water intake, or excessive water loss (eg, dehydration).\n\nClinical manifestations can include:\n\nGeneralized weakness because sodium shifts into the extracellular space, leaving cells dehydrated (Option 2)\n\nSigns of dehydration (eg, increased thirst, decreased urination, dry mucous membranes) (Option 4)\n\nNeurological manifestations (eg, restlessness, hallucinations, confusion, seizures) that may progress to permanent neurological damage (Option 5)\n\n(Option 1)  Clients with hypernatremia may experience tachycardia, not bradycardia, when dehydration is present.  Dehydration results in decreased circulating volume; heart rate increases to maintain perfusion.\n\n(Option 3)  Paresthesia (ie, numbness and tingling) of the extremities and around the mouth is a manifestation of hypocalcemia, not hypernatremia.\n\nEducational objective: Hypernatremia (ie, serum sodium level >145 mEq/L [145 mmol/L]) leads to increased plasma osmolality. Manifestations include generalized weakness, dry mucous membranes, and restlessness.",
+    "subtopic": "Hypernatremia"
+  },
+  {
+    "id": 21,
+    "qid": "52898",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52898",
+    "stem": "The nurse is screening clients for those at risk for developing hypokalemia. The nurse should recognize the client at highest risk for developing hypokalemia is a client who",
+    "options": [
+      "is receiving IV furosemide",
+      "has experienced a traumatic crush injury",
+      "is receiving spironolactone",
+      "has a history of chronic kidney disease"
+    ],
+    "correctAnswers": [
+      "is receiving IV furosemide"
+    ],
+    "rationale": "Hypokalemia (serum potassium level <3.5 mEq/L [<3.5 mmol/L]) is an electrolyte imbalance that is commonly caused by diarrhea, vomiting, and medication use.  The renal system regulates serum potassium levels by increasing or decreasing the amount of potassium excreted in the urine.\n\nBy preventing the reabsorption of sodium and potassium in the kidneys, potassium-wasting diuretics (eg, furosemide, torsemide) increase urine output and decrease fluid retention, which increases the risk for hypokalemia (Option 1).\n\n(Option 2)  Traumatic crush injuries damage muscle tissue, which results in potassium being shifted out of the cells leading to hyperkalemia, not hypokalemia.\n\n(Option 3)  Spironolactone is a potassium-sparing diuretic commonly prescribed to treat hypertension and heart failure.  Spironolactone blocks the effects of aldosterone, a hormone that promotes water retention and potassium excretion, which causes more potassium to remain in the bloodstream (ie, hyperkalemia).\n\n(Option 4)  Chronic kidney disease is an irreversible condition characterized by a progressive decline in the kidneys' ability to filter blood.  A decreased filtration rate results in fluid retention and accumulation of waste products in the blood (ie, hyperkalemia).\n\nEducational objective: The renal system regulates serum potassium levels by increasing or decreasing the amount of potassium excreted in the urine. By preventing the reabsorption of sodium and potassium in the kidneys, potassium-wasting diuretics (eg, furosemide, torsemide) increase the risk for hypokalemia.",
+    "subtopic": "Hypokalemia"
+  },
+  {
+    "id": 22,
+    "qid": "53026",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53026",
+    "stem": "The emergency department nurse is caring for a 10-month-old with lethargy, 3 days of diarrhea, reduced breast milk intake, skin tenting, capillary refill greater than 4 seconds, and sunken fontanels. The nurse recognizes that isotonic dehydration is caused by which fluid shift?",
+    "options": [
+      "balanced loss of water and sodium"
+    ],
+    "correctAnswers": [
+      "balanced loss of water and sodium"
+    ],
+    "rationale": "Dehydration is a fluid volume deficit that can occur secondary to inadequate fluid intake and/or gastrointestinal (eg, diarrhea, vomiting), renal (eg, diuretics), and integumentary (eg, excessive sweating) fluid volume loss.  Infants and young children most often experience isotonic dehydration, which occurs when there is a balanced loss of water and sodium, and sodium levels remain within normal range.  This occurs because infants and young children have a higher percentage of body water than older children and adults.\n\nInfants and young children can become dehydrated quickly due to fluid losses caused by vomiting and diarrhea.  Signs of severe dehydration include lethargy, sunken fontanels, increased capillary refill time, tachycardia, and tachypnea.  The nurse should monitor clients with dehydration closely because isotonic dehydration places the client at risk for developing hypovolemic shock.\n\n(Incorrect)  Hypotonic dehydration occurs when sodium loss is greater than water loss, which results in low serum osmolality.  Conditions with excessive electrolyte losses (eg, diarrhea, vomiting, diuresis) are more likely to cause hypotonic dehydration.\n\n(Incorrect)  Hypertonic dehydration is caused when water loss is greater than sodium loss, which results in high serum osmolality.  Conditions with excessive water losses (eg, high fever, prolonged hyperventilation) are more likely to cause hypertonic dehydration.\n\nEducational objective: Infants and young children most often experience isotonic dehydration, which occurs when there is a balanced loss of water and sodium. This occurs because infants and young children have a higher percentage of body water than older children and adults.",
+    "subtopic": "Isotonic dehydration"
+  },
+  {
+    "id": 23,
+    "qid": "43685",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 43685",
+    "stem": "The emergency department nurse is assessing an anxious 3-year-old who is sitting up, leaning forward with the chin thrust forward, and drooling. The parent reports sudden onset of fever and sore throat in the client. Which action should the nurse take?",
+    "options": [
+      "Inspect the throat for a foreign body using a tongue depressor",
+      "Obtain a throat culture STAT and administer low-flow oxygen",
+      "Place a tracheostomy tray and endotracheal intubation kit at the bedside",
+      "Place the client in a supine position and prepare for x-ray"
+    ],
+    "correctAnswers": [
+      "Place a tracheostomy tray and endotracheal intubation kit at the bedside"
+    ],
+    "rationale": "Epiglottitis (inflammation of the epiglottis) is usually caused by a bacterial infection of the upper airway (eg, Haemophilus influenzae type b).  The classic signs of epiglottitis include a high-grade fever with toxic appearance (eg, lethargic, inconsolable, generally ill-appearing), severe sore throat, and the 4 Ds (Dysphonia [muffled voice], Dysphagia [difficulty swallowing], Drooling, and respiratory Distress).\n\nEpiglottis mucosal inflammation can worsen quickly (eg, within a few minutes) and occlude the trachea.  Intubation and tracheostomy supplies should be immediately available in case of rapid progression to airway obstruction (Option 3).\n\n(Options 1 and 2)  The nurse should avoid placing foreign objects (eg, tongue depressors, throat culture swabs, temperature probes) in the oral cavity because they increase the risk for laryngeal spasm and total airway obstruction.\n\n(Option 4)  Placing the child in the supine position can increase anxiety, worsening respiratory distress.  Clients are usually most comfortable in the tripod position (ie, leaning forward and resting on the arms, with the mouth open and chin extended), which facilitates the use of accessory muscles and improves lung expansion.\n\nEducational objective: Epiglottitis (inflammation of the epiglottis) is usually caused by a bacterial infection of the upper airway and can worsen quickly and occlude the trachea. Classic signs include dysphonia, dysphagia, drooling, and respiratory distress. Intubation and tracheostomy supplies should be immediately available in case of rapid progression to airway obstruction.",
+    "subtopic": "Epiglottitis"
+  },
+  {
+    "id": 24,
+    "qid": "44272",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 44272",
+    "stem": "The nurse is caring for a client with chronic obstructive pulmonary disease who has a continuous pulse oximeter that is alarming frequently. What action should the nurse take first?",
+    "options": [
+      "Check the client's most recent hemoglobin level",
+      "Observe the client's respiratory rate and effort and auscultate the lungs",
+      "Review the alarm parameters set on the monitor",
+      "Verify the location of the probe and ensure the site has good circulation"
+    ],
+    "correctAnswers": [
+      "Observe the client's respiratory rate and effort and auscultate the lungs"
+    ],
+    "rationale": "A pulse oximeter is a noninvasive device that estimates arterial blood oxygen saturation by using a sensor attached to the client's finger, toe, earlobe, nose, or forehead.  The sensor (ie, reusable clip or disposable adhesive) contains light-emitting and light-sensing components that measure the amount of light absorbed by oxygenated hemoglobin in arterial blood.  Because the sensor estimates the value at a peripheral site, the pulse oximeter measurement is reported as capillary oxygen saturation (SpO2).  Normal SpO2 for a healthy client is 95%-100%.\n\nContinuous pulse oximetry is used to monitor and detect changes in oxygenation and respiratory status.  Because alarms may indicate worsening respiratory status, the nurse should remain with the client when the pulse oximeter alarm sounds and complete a respiratory assessment (eg, observe breathing, auscultate lungs) (Option 2).\n\n(Options 1, 3, and 4)  Once respiratory distress is ruled out, the nurse should investigate other factors that can affect the SpO2 reading.  Any factor that affects hemoglobin levels (eg, anemia), light transmission (eg, dark fingernail polish, poorly attached probe, excessive movement), or peripheral blood flow (eg, decreased circulation, cool skin temperature) can result in a false reading.  The nurse should ensure alarm parameters are appropriate and individualized to the client.\n\nEducational objective: Continuous pulse oximetry is used to monitor and detect changes in oxygenation and respiratory status by measuring capillary oxygen saturation (SpO2). Because alarms may indicate worsening respiratory status, the nurse should remain with the client when the pulse oximeter alarm sounds and complete a respiratory assessment (eg, observe breathing, auscultate lungs).",
+    "subtopic": "Pulse oximetry"
+  },
+  {
+    "id": 25,
+    "qid": "51894",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 51894",
+    "stem": "The nurse is assessing a pediatric client with croup. Which of the following findings would be consistent with the condition? Select all that apply.",
+    "options": [
+      "wheezing",
+      "hoarseness",
+      "barking cough",
+      "low-grade fever",
+      "suprasternal retractions"
+    ],
+    "correctAnswers": [
+      "hoarseness",
+      "barking cough",
+      "low-grade fever",
+      "suprasternal retractions"
+    ],
+    "rationale": "Croup (ie, laryngotracheitis) is a respiratory condition affecting the upper airway, causing laryngeal and tracheal inflammation that leads to subglottic edema and narrowing.  It typically begins with a brief period of flu-like symptoms (eg, rhinorrhea, congestion, low-grade fever), followed by the abrupt onset of a harsh, barking cough (Options 3 and 4).  Many viruses cause croup; however, the most common etiologic agent is parainfluenza.\n\nAdditional clinical manifestations include:\n\nInspiratory stridor, caused by swelling and narrowing of the client's airway.  Severe croup can cause stridor at rest, requiring immediate intervention to protect the airway (eg, intubation).\n\nRetractions (eg, suprasternal, subcostal) and varying severity of respiratory distress (eg, grunting, nasal flaring) (Option 5).\n\nHoarseness related to swelling and inflammation of the larynx (Option 2).\n\n(Option 1)  Wheezing indicates narrowing of the lower airway and is not an expected finding in clients with croup.\n\nEducational objective: Croup (ie, laryngotracheitis) is a respiratory condition that causes laryngeal and tracheal inflammation. It typically begins with a brief period of flu-like symptoms (eg, rhinorrhea, congestion, low-grade fever), followed by the abrupt onset of stridor, hoarseness, varying signs of respiratory distress (eg, retractions), and a harsh, barking cough.",
+    "subtopic": "Croup"
+  },
+  {
+    "id": 26,
+    "qid": "52802",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52802",
+    "stem": "The nurse is caring for a client with metabolic acidosis. The nurse should recognize that the condition may be caused by",
+    "options": [
+      "chronic obstructive pulmonary disease",
+      "hyperventilation",
+      "end-stage kidney disease",
+      "vomiting"
+    ],
+    "correctAnswers": [
+      "end-stage kidney disease"
+    ],
+    "rationale": "Acid-base imbalances\n\nImbalance\n\nCommon causes\n\nCompensatory mechanism\n\nMetabolic acidosis\n\nDiabetic ketoacidosis\n\nLactic acidosis\n\nDiarrhea\n\nDrugs (eg, aspirin)\n\nRenal failure (inability to regulate HCO3− & H+ levels)\n\nHyperventilation blows off CO2, causing ↓ CO2 & ↑ pH\n\nMetabolic alkalosis\n\nLoss of gastric contents (eg, vomiting, nasogastric suction)\n\nExcessive diuresis\n\nHypoventilation retains CO2, causing ↑ CO2 & ↓ pH\n\nRespiratory acidosis\n\nHypoventilation (eg, CNS depression, COPD)\n\nKidneys retain HCO3−, causing ↑ HCO3− & ↑ pH\n\nRespiratory alkalosis\n\nHyperventilation (eg, anxiety, pain)\n\nKidneys excrete HCO3−, causing ↓ HCO3− & ↓ pH\n\nCOPD = chronic obstructive pulmonary disease.\n\nMetabolic acidosis is defined by a decreased pH (ie, <7.35) and decreased HCO3− (ie, <21 mEq/L [21 mmol/L]).  PaCO2 may be normal (ie, 35-45 mm Hg [4.66-5.98 kPa]) or decreased.  Compensated metabolic acidosis occurs when the lungs normalize the pH by \"blowing off\" acidic CO2 (ie, hyperventilation), which decreases the CO2 level.\n\nMetabolic acidosis can occur due to diarrhea, renal impairment (end-stage kidney disease), diabetic ketoacidosis, and the buildup of lactic acid (eg, carbon monoxide poisoning) (Option 3).  Management of metabolic acidosis focuses on identifying and treating the cause of HCO3− losses (eg, insulin administration for diabetic ketoacidosis) and promoting renal HCO3− retention (eg, fluid, electrolyte replacement).\n\n(Option 1)  Respiratory acidosis is caused by CO2 retention, typically secondary to hypoventilation (eg, chronic obstructive pulmonary disease).  Respiratory acidosis is indicated by a pH <7.35 with an increased PaCO2 and normal or increased HCO3−.\n\n(Option 2)  Respiratory alkalosis occurs due to increased CO2 excretion from hyperventilation (eg, anxiety).  Respiratory alkalosis is indicated by a pH >7.45 with a decreased PaCO2 and normal or decreased HCO3−.\n\n(Option 4)  Metabolic alkalosis is caused by HCO3− retention or loss of acid (eg, vomiting).  Metabolic alkalosis is indicated by a pH >7.45 with an increased HCO3− and normal or increased PaCO2.\n\nEducational objective: Metabolic acidosis is defined by a decreased pH and decreased HCO3−, with a normal or increased PaCO2. Common causes of metabolic acidosis include end-stage kidney disease, diabetic ketoacidosis, and diarrhea.",
+    "subtopic": "Metabolic acidosis"
+  },
+  {
+    "id": 27,
+    "qid": "52917",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52917",
+    "stem": "The nurse is caring for a client who has mild hyponatremia. The nurse should expect that the client will be prescribed",
+    "options": [
+      "lactated Ringer solution",
+      "0.9% sodium chloride",
+      "10% dextrose in water",
+      "25% albumin"
+    ],
+    "correctAnswers": [
+      "0.9% sodium chloride"
+    ],
+    "rationale": "Hyponatremia (serum sodium level <136 mEq/L [136 mmol/L]) is most often associated with alterations in fluid balance.  Water loss (eg, dehydration, diuretics) can lead to hyponatremia because sodium follows water.  Water retention can also cause dilutional hyponatremia.\n\nClients with mild hyponatremia (serum sodium level of 120-130 mEq/L [120-130 mmol/L]) typically have mild symptoms (eg, lethargy, forgetfulness) and can be treated by increasing the oral intake of sodium or by receiving 0.9% sodium chloride IV (Option 2).  The cause of hyponatremia (eg, vomiting, diarrhea, diuresis) should be treated and the client monitored closely for signs of hypernatremia and fluid overload during replacement therapy.\n\n(Option 1)  Lactated Ringer solution has the same osmolality as plasma and is administered to expand intravascular fluid volume.  Although lactated Ringer solution can be helpful for clients with fluid volume deficit, 0.9% sodium chloride is the preferred treatment for hyponatremia.\n\n(Option 3)  Hypertonic solutions (eg, 10% dextrose in water) have a higher osmolality than extracellular fluid, which promotes movement of fluid from the intracellular space to the extracellular intravascular space.  Dextrose solutions are used to treat hypoglycemia.\n\n(Option 4)  Albumin is a colloid solution commonly administered to improve blood pressure and prevent third spacing.  It increases intravascular fluid volume and oncotic pressure but does not correct hyponatremia.\n\nEducational objective: Hyponatremia (serum sodium level <136 mEq/L [136 mmol/L]) is most often associated with alterations in fluid balance. Clients with mild hyponatremia can be treated by increasing the oral intake of sodium or by receiving 0.9% sodium chloride IV.",
+    "subtopic": "Hyponatremia"
+  },
+  {
+    "id": 28,
+    "qid": "54456",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 54456",
+    "stem": "The nurse in the emergency department is reviewing laboratory results for a client. Laboratory Results Laboratory Test and Reference Range Emergency Department Arterial blood gas analysis pH 7.35-7.45 7.36 PaCO2 35-45 mm Hg (4.66-5.98 kPa) 32 mm Hg (4.26 kPa) PaO2 80-100 mm Hg (10.64-13.3 kPa) 88 mm Hg (11.7 kPa) HCO3 21-28 mEq/L (21-28 mmol/L) 19 mEq/L (19 mmol/L) The nurse should recognize that the client is likely experiencing",
+    "options": [
+      "uncompensated metabolic acidosis",
+      "compensated metabolic acidosis",
+      "uncompensated respiratory acidosis",
+      "compensated respiratory acidosis"
+    ],
+    "correctAnswers": [
+      "compensated metabolic acidosis"
+    ],
+    "rationale": "Acid-base imbalances\n\nImbalance\n\nCommon causes\n\nCompensatory mechanism\n\nMetabolic acidosis\n\nDiabetic ketoacidosis\n\nLactic acidosis\n\nDiarrhea\n\nDrugs (eg, aspirin)\n\nRenal failure (inability to regulate HCO3− & H+ levels)\n\nHyperventilation blows off CO2, causing ↓ CO2 & ↑ pH\n\nMetabolic alkalosis\n\nLoss of gastric contents (eg, vomiting, nasogastric suction)\n\nExcessive diuresis\n\nHypoventilation retains CO2, causing ↑ CO2 & ↓ pH\n\nRespiratory acidosis\n\nHypoventilation (eg, CNS depression, COPD)\n\nKidneys retain HCO3−, causing ↑ HCO3− & ↑ pH\n\nRespiratory alkalosis\n\nHyperventilation (eg, anxiety, pain)\n\nKidneys excrete HCO3−, causing ↓ HCO3− & ↓ pH\n\nCOPD = chronic obstructive pulmonary disease.\n\nMetabolic acidosis occurs due to the buildup of acid (eg, diabetic ketoacidosis) or the inability to excrete acid (eg, renal failure) from the body.  Metabolic imbalances affect the HCO3− level.  HCO3− is basic; therefore, decreased HCO3−indicates metabolic acidosis.\n\nCompensated metabolic acidosis is indicated by a normal pH (7.35-7.45), decreased HCO3− (<21 mEq/L [21 mmol/L]), and decreased carbon dioxide (CO2) (<35 mm Hg [4.66 kPa]) (Option 2).  The lungs compensate for metabolic acidosis by \"blowing off\" acidic CO2 (ie, hyperventilation), which decreases the CO2 level and increases the pH.  HCO3− typically remains decreased until the underlying condition is treated.\n\n(Option 1)  Uncompensated metabolic acidosis would be indicated by a decreased pH (<7.35), decreased HCO3− (<21 mEq/L [21 mmol/L]), and normal PaCO2 (35-45 mm Hg [4.66-5.98 kPa]).\n\n(Options 3 and 4)  Respiratory acidosis (pH <7.45) results from increased PaCO2 (>45 mm Hg [5.98 kPa]).  The kidneys compensate for respiratory acidosis by retaining HCO3−.  Therefore, an increase in HCO3− (>28 mEq/L [28 mmol/L]) and normal pH (7.35-7.45) would indicate compensated respiratory alkalosis.\n\nEducational objective: Compensated metabolic acidosis is indicated by a normal pH (7.35-7.45), decreased HCO3− (<21 mEq/L [21 mmol/L]), and decreased carbon dioxide (CO2) (<35 mm Hg [4.66 kPa]). The lungs compensate for metabolic acidosis by \"blowing off\" acidic CO2, which decreases the CO2 level and increases the pH.",
+    "subtopic": "Compensated metabolic acidosis"
+  },
+  {
+    "id": 29,
+    "qid": "77895",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 77895",
+    "stem": "The nurse is screening clients for those at risk for developing hypophosphatemia. The nurse should recognize the client at highest risk for developing hypophosphatemia is the client who is receiving",
+    "options": [
+      "desmopressin for diabetes insipidus",
+      "nicotine replacement therapy for chronic tobacco use",
+      "docusate sodium for chronic constipation",
+      "aluminum hydroxide for gastroesophageal reflux disease"
+    ],
+    "correctAnswers": [
+      "aluminum hydroxide for gastroesophageal reflux disease"
+    ],
+    "rationale": "Causes of hypophosphatemia\n\nInternal redistribution\n\nIncreased insulin secretion (especially refeeding malnourished patients)\n\nAcute respiratory alkalosis (stimulates glycolysis)\n\nHungry bone syndrome (after parathyroidectomy)\n\nDecreased intestinal absorption\n\nChronic poor intake\n\nAluminum- or magnesium-containing antacids (bind phosphate)\n\nSteatorrhea or chronic diarrhea\n\nIncreased urinary excretion\n\nPrimary & secondary hyperparathyroidism\n\nVitamin D deficiency (↓ GI absorption, ↑ urinary excretion)\n\nPrimary renal phosphate-wasting syndromes\n\nFanconi syndrome\n\nPhosphate is an electrolyte that is mostly found intracellularly, with the majority stored in osteocytes (bone cells).  Functions of phosphate include bone health, muscle contraction (phosphate is a vital component of adenosine triphosphate), and supporting the oxygen-carrying capacity of RBCs.\n\nHypophosphatemia (decreased serum phosphate levels) can occur from malabsorption syndromes, inadequate dietary intake, hyperparathyroidism, and the use of certain antacids.  Antacids are used to reduce stomach acidity in conditions such as gastroesophageal reflux disease.  Aluminum-containing antacids (eg, aluminum hydroxide) bind phosphate in the gastrointestinal (GI) tract, preventing its absorption and leading to a decreased serum phosphate level (Option 4).\n\n(Option 1)  Desmopressin is a synthetic form of antidiuretic hormone used to treat diabetes insipidus.  Diuretics (eg, loop, thiazide), not antidiuretics, can decrease the serum phosphate level by increasing urinary excretion.\n\n(Options 2 and 3)  Long-term alcohol use and chronic diarrhea, not nicotine use and constipation, can decrease the serum phosphate level due to impaired absorption of phosphate in the GI tract.\n\nEducational objective: Causes of hypophosphatemia include long-term alcohol use, chronic diarrhea, diuretic use, and the use of certain antacids. Aluminum hydroxide is an antacid that binds phosphate in the gastrointestinal tract, preventing its absorption and leading to a decreased serum phosphate level.",
+    "subtopic": "Hypophosphatemia"
+  },
+  {
+    "id": 30,
+    "qid": "77805",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 77805",
+    "stem": "The nurse has attended a staff education program about IV solutions. Which of the following statements by the nurse would require follow-up?",
+    "options": [
+      "\"Lactated Ringer solution has an osmolality similar to the plasma in the body.\"",
+      "\"3% sodium chloride shifts fluid out of the cells and into the extracellular space.\"",
+      "\"Fresh frozen plasma is a crystalloid solution commonly used to treat dehydration.\"",
+      "\"0.9% sodium chloride is the only solution that can be administered with blood products.\""
+    ],
+    "correctAnswers": [
+      "\"Fresh frozen plasma is a crystalloid solution commonly used to treat dehydration.\""
+    ],
+    "rationale": "Isotonic solutions (eg, 0.9% sodium chloride, lactated Ringer solution) are crystalloids with an osmolality similar to plasma that expand extracellular fluid volume without causing fluid shifts in and out of the intravascular space (ie, cells).  Isotonic solutions, not colloids, are commonly administered to treat fluid volume deficits (eg, dehydration) caused by vomiting and diarrhea, burns, and traumatic injury (Option 3).\n\nColloids (eg, fresh frozen plasma [FFP], albumin) contain large molecules (eg, protein) that increase colloid osmotic pressure, which mobilizes fluid from extravascular tissues into the intravascular space.  FFP is a blood product used to replace intravascular volume and to provide necessary clotting factors for clients experiencing significant blood loss.\n\n(Option 1)  Lactated Ringer solution is an isotonic solution with an osmolality similar to plasma, which allows for infused fluid to remain in the extracellular space without shifting in or out of cells.\n\n(Option 2)  Hypertonic solutions (eg, 3% sodium chloride) shift fluid out of the cells and into the extracellular space, which decreases intracellular volume.\n\n(Option 4)  0.9% sodium chloride is the only IV solution compatible with blood products because other IV solutions can cause hemolysis and clotting within the IV tubing.\n\nEducational objective: Isotonic solutions (eg, 0.9% sodium chloride, lactated Ringer solution) are crystalloid IV solutions used to treat fluid volume deficits (eg, dehydration). Fresh frozen plasma is a colloid used for volume and clotting factor replacement for clients experiencing significant blood loss.",
+    "subtopic": "IV fluid solutions"
+  },
+  {
+    "id": 31,
+    "qid": "53049",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53049",
+    "stem": "The nurse is screening clients for those at risk for developing hyperphosphatemia. Which of the following factors would increase a client's risk for developing hyperphosphatemia?",
+    "options": [
+      "refeeding syndrome",
+      "tumor lysis syndrome",
+      "end-stage liver disease",
+      "malabsorption syndrome"
+    ],
+    "correctAnswers": [
+      "tumor lysis syndrome"
+    ],
+    "rationale": "Tumor lysis syndrome is an oncological emergency that occurs when cancer treatment (eg, chemotherapy, immunotherapy) destroys numerous cancer cells, resulting in the massive release of intracellular components (eg, potassium, phosphate, nucleic acids) into systemic circulation.\n\nCancer cells contain a higher concentration of phosphate than normal cells.  In tumor lysis syndrome, when cancer cells are destroyed, hyperphosphatemia (ie, serum phosphate level >4.5 mg/dL [1.45 mmol/L]) quickly develops due to the increased concentration of serum phosphate (Option 2).\n\n(Option 1)  Refeeding syndrome is a potentially lethal complication of nutritional replenishment in clients who are significantly malnourished.  After a period of starvation, glucose stimulates insulin production and a shift of electrolytes (eg, phosphate) from the blood into tissue cells, resulting in decreased serum phosphate levels.\n\n(Option 3)  End-stage liver disease leads to electrolyte loss (eg, hypomagnesemia) due to liver dysfunction and excess fluid trapped in the body.\n\n(Option 4)  Malabsorption syndrome results in electrolyte loss (eg, hypocalcemia, hypokalemia) due to impaired absorption of nutrients throughout the gastrointestinal system.\n\nEducational objective: Tumor lysis syndrome is an oncological emergency that occurs when cancer treatment destroys numerous cancer cells, resulting in the massive release of intracellular components (eg, potassium, phosphate, nucleic acids) into circulation, causing hyperphosphatemia along with other electrolyte shifts.",
+    "subtopic": "Hyperphosphatemia"
+  },
+  {
+    "id": 32,
+    "qid": "78996",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 78996",
+    "stem": "The nurse is planning care for a client who has a bowel obstruction and metabolic alkalosis. Which of the following interventions should the nurse include in the client's plan of care? Select all that apply.",
+    "options": [
+      "Administer ondansetron.",
+      "Request a prescription for hydrochlorothiazide.",
+      "Maintain nasogastric tube suction settings at high intermittent suction.",
+      "Initiate a continuous IV infusion of 0.9% sodium chloride.",
+      "Obtain a comprehensive metabolic panel."
+    ],
+    "correctAnswers": [
+      "Administer ondansetron.",
+      "Initiate a continuous IV infusion of 0.9% sodium chloride.",
+      "Obtain a comprehensive metabolic panel."
+    ],
+    "rationale": "Acid-base imbalances\n\nImbalance\n\nCommon causes\n\nCompensatory mechanism\n\nMetabolic acidosis\n\nDiabetic ketoacidosis\n\nLactic acidosis\n\nDiarrhea\n\nDrugs (eg, aspirin)\n\nRenal failure (inability to regulate HCO3− & H+ levels)\n\nHyperventilation blows off CO2, causing ↓ CO2 & ↑ pH\n\nMetabolic alkalosis\n\nLoss of gastric contents (eg, vomiting, nasogastric suction)\n\nExcessive diuresis\n\nHypoventilation retains CO2, causing ↑ CO2 & ↓ pH\n\nRespiratory acidosis\n\nHypoventilation (eg, CNS depression, COPD)\n\nKidneys retain HCO3−, causing ↑ HCO3− & ↑ pH\n\nRespiratory alkalosis\n\nHyperventilation (eg, anxiety, pain)\n\nKidneys excrete HCO3−, causing ↓ HCO3− & ↓ pH\n\nCOPD = chronic obstructive pulmonary disease.\n\nMetabolic alkalosis is an acid-base imbalance characterized by an elevated pH (>7.45) and HCO3− (>28 mEq/L [28 mmol/L]) due to a loss of acidic gastric secretions (eg, nasogastric [NG] suction for treatment of bowel obstruction, vomiting) or use of certain diuretics (eg, loop, thiazide), which promote the retention of HCO3− in the renal system.  Management of metabolic alkalosis focuses on identifying and treating the cause and promoting renal HCO3− excretion.\n\nInterventions for a client with metabolic alkalosis should include:\n\nAdminister antiemetic medication (ie, ondanestron) to control nausea and vomiting, which reduces the loss of acidic gastric content (Option 1).\n\nInitiate fluid replacement (ie, 0.9 % sodium chloride continuous infusion) to correct extracellular fluid volume depletion and promote renal HCO3− excretion (Option 4).\n\nObtain a comprehensive metabolic panel to assess renal function and monitor serum electrolyte levels, which directs appropriate electrolyte replacement (Option 5).\n\n(Option 2)  Hydrochlorothiazide is a thiazide diuretic that promotes sodium and potassium excretion while promoting retention of HCO3− in the renal system, which can worsen metabolic alkalosis.\n\n(Option 3)  Maintaining NG tube suction to high intermittent suction may worsen metabolic alkalosis.  If NG tube suction is medically necessary, low intermittent suction is preferred to minimize the loss of acidic gastric content.\n\nEducational objective: Metabolic alkalosis is an acid-base imbalance characterized by an elevated pH and HCO3−. Interventions includes administering antiemetics, initiating fluid replacement, and obtaining a comprehensive metabolic panel to assess renal function and monitor serum electrolyte levels.",
+    "subtopic": "Metabolic alkalosis"
+  },
+  {
+    "id": 33,
+    "qid": "61674",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 61674",
+    "stem": "The nurse is assessing a client with a suspected pleural effusion. Which of the following findings would support a diagnosis of pleural effusion? Select all that apply.",
+    "options": [
+      "decreased chest movement on the affected side",
+      "decreased breath sounds on the affected side",
+      "resonance on percussion of the affected side",
+      "chest pain during inhalation",
+      "tachycardia"
+    ],
+    "correctAnswers": [
+      "decreased chest movement on the affected side",
+      "decreased breath sounds on the affected side",
+      "chest pain during inhalation",
+      "tachycardia"
+    ],
+    "rationale": "A pleural effusion is a collection of excess fluid in the pleural space often secondary to another condition (eg, heart failure, pneumonia, nephrotic syndrome).  Excess fluid compresses lung tissue resulting in ineffective gas exchange.  Treatment includes a thoracentesis to remove the excess fluid from the pleural space.\n\nManifestations of a pleural effusion include:\n\nDecreased breath sounds and movement of the chest on the affected side during inhalation and exhalation because excess fluid in the pleural space prevents the lung from fully expanding (Options 1 and 2)\n\nChest pain that occurs as the inflamed layers of the pleura rub together during inhalation (ie, pleuritic chest pain) (Option 4)\n\nTachycardia and cough related to decreased oxygenation, increased work of breathing, and underlying infection (eg, pneumonia) (Options 5)\n\n(Option 3)  Pleural effusions sound dull/flat, not resonant, on percussion due to excess fluid occupying the pleural space.\n\nEducational objective: A pleural effusion is a collection of excess fluid in the pleural space that compresses lung tissue and results in ineffective gas exchange. Manifestations include decreased breath sounds and movement of the chest on the affected side, pleuritic chest pain, tachycardia, and cough.",
+    "subtopic": "Pleural effusion"
+  },
+  {
+    "id": 34,
+    "qid": "51090",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 51090",
+    "stem": "The nurse is caring for a client with a malignant pleural effusion. It would be a priority for the nurse to",
+    "options": [
+      "prepare the client for chemical pleurodesis",
+      "prepare the client for a thoracentesis",
+      "request a prescription for a diuretic",
+      "initiate antibiotic therapy"
+    ],
+    "correctAnswers": [
+      "prepare the client for a thoracentesis"
+    ],
+    "rationale": "A pleural effusion is a collection of excess fluid in the pleural space.  Excess fluid compresses lung tissue and results in ineffective gas exchange.  Manifestations include dyspnea, cough, sharp chest pain on inspiration, and decreased breath sounds on the affected side.\n\nPleural malignancy (eg, cancer) is a common cause of pleural effusion because cancer cells can block lymphatic drainage, causing fluid to accumulate within the pleural space.  Initial treatment of a malignant pleural effusion is a thoracentesis to remove fluid from the pleural space and to resolve symptoms (eg, chest pain during inhalation, dyspnea) (Option 2).\n\n(Option 1)  Malignant pleural effusions often recur within days to weeks and may require a chemical pleurodesis to prevent recurrence.  After fluid is removed from the pleural space via thoracentesis, a chemical mixture is instilled into the pleural space for multiple hours to obliterate the area and prevent pleural effusion.\n\n(Option 3)  Diuretics (eg, furosemide, bumetanide) are indicated for a pleural effusion caused by heart failure, not malignancy.\n\n(Option 4)  Antibiotics are indicated for a pleural effusion caused by infection (eg, pneumonia, tuberculosis), not malignancy.\n\nEducational objective: Malignancy (eg, cancer) is a common cause of pleural effusion. Initial treatment of a malignant pleural effusion is a thoracentesis to remove fluid from the pleural space and to resolve symptoms (eg, chest pain during inhalation, dyspnea).",
+    "subtopic": "Pleural effusion"
+  },
+  {
+    "id": 35,
+    "qid": "54487",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 54487",
+    "stem": "The nurse is assessing a client with preeclampsia who has developed magnesium toxicity after receiving IV magnesium sulfate. Which of the following findings would be consistent with magnesium toxicity? Select all that apply.",
+    "options": [
+      "nausea",
+      "heart rate of 52/min",
+      "blood pressure of 148/98 mm Hg",
+      "respirations of 8/min",
+      "hyperreflexia"
+    ],
+    "correctAnswers": [
+      "nausea",
+      "heart rate of 52/min",
+      "respirations of 8/min"
+    ],
+    "rationale": "Magnesium sulfate is a central nervous system (CNS) depressant commonly prescribed to prevent seizures (ie, eclampsia) in clients with preeclampsia, a hypertensive disorder of pregnancy.  Clients receiving magnesium sulfate require frequent monitoring because life-threatening magnesium toxicity can occur if serum magnesium levels become severely elevated.  If magnesium toxicity is suspected, the nurse should immediately discontinue the infusion and prepare to administer the antidote, calcium gluconate.\n\nManifestations of mild/moderate magnesium toxicity include nausea, skin flushing, headache, diminished/absent deep tendon reflexes, sedation, hypotension, and bradycardia (Options 1 and 2).  Manifestations of severe magnesium toxicity include respiratory depression/failure (eg, respirations of 8/min), which indicates severe CNS depression and may precede cardiopulmonary arrest (Option 4).\n\n(Option 3)  Hypotension is associated with magnesium toxicity.  Hypertension is a manifestation of preeclampsia.\n\n(Option 5)  Clients with magnesium toxicity experience hyporeflexia (0 or 1+ deep tendon reflexes).  Clients with hypomagnesemia typically experience hyperreflexia (3+ or 4+ deep tendon reflexes).\n\nEducational objective: Magnesium sulfate is often prescribed to prevent seizures in clients with preeclampsia. The nurse should monitor the client for signs of magnesium toxicity, including nausea, sedation, hypotension, bradycardia, respiratory depression/failure, and hyporeflexia.",
+    "subtopic": "Magnesium toxicity"
+  },
+  {
+    "id": 36,
+    "qid": "52617",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Respiratory",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 52617",
+    "stem": "The nurse is assessing a client with suspected acute respiratory distress syndrome (ARDS). Which of the following findings would support a diagnosis of ARDS? Select all that apply.",
+    "options": [
+      "anxiety",
+      "tachypnea",
+      "bradycardia",
+      "blood-tinged sputum",
+      "intercostal retractions"
+    ],
+    "correctAnswers": [
+      "anxiety",
+      "tachypnea",
+      "intercostal retractions"
+    ],
+    "rationale": "Acute respiratory distress syndrome (ARDS) is a life-threatening respiratory condition that occurs when injury to lung tissue damages the alveolar-capillary membrane.  This damage allows fluid and proteins to cross the alveolar-capillary membrane and fill the alveoli, causing profound hypoxia and organ damage.  Clinical manifestations of ARDS include:\n\nRefractory hypoxemia (ie, decreased capillary oxygen saturation despite administration of high concentrations of oxygen) because supplemental oxygen cannot cross the alveolar-capillary membrane\n\nMental status changes (eg, anxiety, confusion) secondary to impaired perfusion of vital organs (eg, brain) (Option 1)\n\nTachypnea (ie, increased respiratory rate), dyspnea (ie, shortness of breath), and increased work of breathing (ie, accessory muscle use, intercostal retractions) as compensatory responses to hypoxia (Options 2 and 5)\n\nCrackles due to pulmonary edema (ie, fluid buildup in the alveoli)\n\n(Option 3)  Clients with ARDS experience tachycardia (ie, elevated heart rate), not bradycardia (ie, decreased heart rate), as a compensatory response to hypotension and widespread hypoxia.\n\n(Option 4)  Bloody sputum may occur in upper respiratory infections and lung cancer but is not a manifestation of ARDS.\n\nEducational objective: Acute respiratory distress syndrome is a life-threatening respiratory condition that occurs when injury to lung tissue damages the alveolar-capillary membrane. Manifestations include refractory hypoxemia, anxiety, tachypnea, intercostal retractions, increased work of breathing, and crackles.",
+    "subtopic": "Acute respiratory distress syndrome"
+  },
+  {
+    "id": 37,
+    "qid": "52678",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Immune / emergency",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 52678",
+    "stem": "The nurse is assessing a client with suspected anaphylaxis. Which of the following findings would support a diagnosis of anaphylaxis? Select all that apply.",
+    "options": [
+      "urticaria",
+      "wheezing",
+      "swollen lips",
+      "S3 heart tone",
+      "unequal pupils"
+    ],
+    "correctAnswers": [
+      "urticaria",
+      "wheezing",
+      "swollen lips"
+    ],
+    "rationale": "Anaphylaxis is an immune-mediated, life-threatening hypersensitivity reaction to an allergen (eg, insect stings, food, medications [eg, antibiotics]) characterized by vasodilation, bronchospasm, and increased capillary permeability.  The first-line treatment for anaphylaxis is IM epinephrine, which stimulates adrenergic receptors to reduce vasodilation, prevent further release of inflammatory mediators, and reverse bronchoconstriction.\n\nClinical manifestations of anaphylaxis include:\n\nSkin reactions (ie, urticaria, flushing) (Option 1)\n\nRespiratory distress (ie, wheezing, dyspnea, stridor) (Option 2)\n\nSwelling of the lips and tongue (ie, angioedema) (Option 3)\n\nCirculatory compromise (ie, hypotension, syncope)\n\n(Option 4)  An S3 heart tone occurs when blood from the atrium is pumped into a noncompliant ventricle and is commonly associated with heart failure, not anaphylaxis.\n\n(Option 5)  Unequal pupils (ie, anisocoria) are associated with conditions such as stroke and head injury, not anaphylaxis.\n\nEducational objective: Anaphylaxis is a life-threatening hypersensitivity reaction to an allergen characterized by vasodilation, bronchospasm, and increased capillary permeability. Manifestations include urticaria, wheezing, and angioedema. Epinephrine should be administered at the onset of symptoms.",
+    "subtopic": "Anaphylaxis"
+  },
+  {
+    "id": 38,
+    "qid": "53071",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53071",
+    "stem": "The nurse is assessing a client who has hyperphosphatemia secondary to hypoparathyroidism. Which of the following findings would the nurse expect to obtain?",
+    "options": [
+      "tetany and hyperreflexia",
+      "muscle weakness and polyuria",
+      "bounding pulse and peripheral edema",
+      "abdominal cramping and irregular pulse"
+    ],
+    "correctAnswers": [
+      "tetany and hyperreflexia"
+    ],
+    "rationale": "Hyperphosphatemia (ie, serum phosphate level >4.5 mg/dL [1.45 mmol/L]) is commonly caused by renal injury, tumor lysis syndrome, or hypoparathyroidism.  Increased levels of phosphate reduce the amount of available calcium in the bloodstream.\n\nWhen serum phosphate levels are elevated, hypocalcemia can occur.  Manifestations of hyperphosphatemia secondary to hypoparathyroidism are consistent with hypocalcemia and include neuromuscular irritability (hyperreflexia), muscle cramping, and tetany (Option 1).\n\n(Option 2)  Muscle weakness and polyuria are manifestations of hypercalcemia.  Elevated serum calcium levels cause a neuromuscular sedating effect and increased urine output to flush out excess calcium.\n\n(Option 3)  Although fluid volume overload caused by kidney disease may lead to hyperphosphatemia, bounding pulse and peripheral edema are not manifestations of hyperphosphatemia.\n\n(Option 4)  Abdominal cramping and irregular pulse are manifestations of hyperkalemia that result from electrical changes within the heart and hyperactivity of the gastrointestinal muscles.\n\nEducational objective: Hyperphosphatemia can lead to secondary hypocalcemia due to increased levels of phosphate binding to calcium within the bloodstream. Manifestations of hypocalcemia include neuromuscular irritability (hyperreflexia), muscle cramping, and tetany.",
+    "subtopic": "Hyperphosphatemia"
+  },
+  {
+    "id": 39,
+    "qid": "53020",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Answer",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "reviewed-explanation-key",
+    "sourceDetail": "UWorld QID 53020",
+    "stem": "The nurse has attended a staff education program about fluid and electrolyte imbalances. The nurse should recognize that which of the following factors may contribute to an elevated serum sodium level? Select all that apply.",
+    "options": [
+      "diabetes insipidus",
+      "chronic constipation",
+      "administration of mannitol",
+      "administration of lactated Ringer solution",
+      "submersion injury sustained in salt water"
+    ],
+    "correctAnswers": [
+      "diabetes insipidus",
+      "administration of mannitol",
+      "submersion injury sustained in salt water"
+    ],
+    "rationale": "Hypernatremia (serum sodium level >145 mEq/L [145 mmol/L]) leads to increased plasma osmolality.  To correct this imbalance, water is pulled into the extracellular fluid, which leads to cell shrinkage.  This results in neurological clinical manifestations (eg, restlessness, hallucinations) and can lead to permanent damage.\n\nCauses of hypernatremia include:\n\nDiabetes insipidus because the kidneys cannot concentrate urine (Option 1)\n\nInadequate intake of water\n\nAdministration of osmotic diuretics (eg, mannitol), which promote excessive water excretion (Option 3)\n\nInsensible water losses (eg, sweating, hyperventilation)\n\nIncreased dietary intake of salt\n\nSubmersion injury (eg, near drowning) in salt water, which results in excessive sodium consumption (Option 5)\n\n(Option 2)  Diarrhea causes excess water loss that leads to hypernatremia; constipation does not cause excess water loss.\n\n(Option 4)  Lactated Ringer solution is isotonic and does not increase the risk for hypernatremia.  In contrast, hypertonic saline (eg, 3% sodium chloride) contains an increased concentration of sodium and can contribute to an elevated serum sodium level.\n\nEducational objective: Hypernatremia (serum sodium level >145 mEq/L [145 mmol/L]) leads to neurological clinical manifestations. Causes of hypernatremia include diabetes insipidus, administration of osmotic diuretics, and submersion injuries in salt water.",
+    "subtopic": "Hypernatremia"
+  },
+  {
+    "id": 40,
+    "qid": "52809",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Acid-base",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52809",
+    "stem": "The nurse has attended a staff education program about acid-base imbalances. The nurse should recognize that respiratory acidosis is caused by an elevated",
+    "options": [
+      "serum potassium level",
+      "PaCO2",
+      "serum ketone level",
+      "HCO3−"
+    ],
+    "correctAnswers": [
+      "PaCO2"
+    ],
+    "rationale": "Acid-base imbalances\n\nImbalance\n\nCommon causes\n\nCompensatory mechanism\n\nMetabolic acidosis\n\nDiabetic ketoacidosis\n\nLactic acidosis\n\nDiarrhea\n\nDrugs (eg, aspirin)\n\nRenal failure (inability to regulate HCO3− & H+ levels)\n\nHyperventilation blows off CO2, causing ↓ CO2 & ↑ pH\n\nMetabolic alkalosis\n\nLoss of gastric contents (eg, vomiting, nasogastric suction)\n\nExcessive diuresis\n\nHypoventilation retains CO2, causing ↑ CO2 & ↓ pH\n\nRespiratory acidosis\n\nHypoventilation (eg, CNS depression, COPD)\n\nKidneys retain HCO3−, causing ↑ HCO3− & ↑ pH\n\nRespiratory alkalosis\n\nHyperventilation (eg, anxiety, pain)\n\nKidneys excrete HCO3−, causing ↓ HCO3− & ↓ pH\n\nCOPD = chronic obstructive pulmonary disease.\n\nRespiratory acidosis is indicated by decreased pH (ie, <7.35) and increased PaCO2 (ie, >45 mm Hg [5.98 kPa]).  HCO3− levels may be normal or increased (ie, compensated).  Respiratory acidosis occurs from hypoventilation secondary to conditions that impair gas exchange within the lungs (eg, chronic obstructive pulmonary disease), resulting in elevated PaCO2 (Option 2).\n\nManagement of respiratory acidosis focuses on promoting renal function (eg, fluids, electrolyte replacement) and identifying and treating the cause of carbon dioxide gas retention.\n\n(Option 1)  Elevated serum potassium levels (ie, hyperkalemia) can either cause or occur secondary to metabolic acidosis.  The movement of extracellular hydrogen ions into the cell causes intracellular potassium ions to move out of the cell, increasing serum potassium concentration.\n\n(Option 3)  Elevated serum ketone levels are associated with diabetic ketoacidosis (DKA), a form of metabolic acidosis.  DKA is a life-threatening complication of diabetes mellitus characterized by serum hyperglycemia and intracellular glucose starvation.\n\n(Option 4)  The primary cause of metabolic alkalosis is retention of HCO3− or loss of acid (eg, vomiting, nasogastric suctioning).  Metabolic alkalosis is identified by a pH >7.45, increased HCO3− level, and normal or increased PaCO2.\n\nEducational objective: Respiratory acidosis is indicated by decreased pH (ie, <7.35) and increased PaCO2 (ie, >45 mm Hg [5.98 kPa]) with normal or increased HCO3− levels. Respiratory acidosis occurs from hypoventilation secondary to conditions that impair gas exchange within the lungs (eg, chronic obstructive pulmonary disease).",
+    "subtopic": "Respiratory acidosis"
+  },
+  {
+    "id": 41,
+    "qid": "52860",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 52860",
+    "stem": "The nurse is assessing a client who has a decreased serum potassium level. Which of the following findings would be consistent with the condition?",
+    "options": [
+      "hypotension",
+      "facial twitching",
+      "ST segment depression",
+      "hyperactive deep tendon reflexes"
+    ],
+    "correctAnswers": [
+      "ST segment depression"
+    ],
+    "rationale": "Potassium is an electrolyte that creates an action potential in the membranes of cells that leads to muscle contraction.  Potassium affects cardiac muscle contraction; even slight changes in extracellular concentration can affect cardiac and neuromuscular functions.  Hypokalemia is a decreased serum potassium level that can cause life-threatening cardiac dysrhythmias (eg, U wave, prolonged QRS interval, ST segment depression, ventricular tachycardia) because of the impaired repolarization phase (Option 3).\n\n(Option 1)  Hypotension is associated with hypermagnesemia (increased serum magnesium level), not hypokalemia.  Other manifestations of hypermagnesemia include nausea, somnolence, bradycardia, and absent/diminished deep tendon reflexes.\n\n(Option 2)  Chvostek sign (facial twitching after tapping the facial nerve) indicates increased neuromuscular excitability and is associated with hypocalcemia (decreased serum calcium level), not hypokalemia.\n\n(Option 4)  Hypokalemia decreases neuromuscular excitability, which can cause paresthesia (numbness, tingling), muscle cramps, and weakness.  Hyperactive deep tendon reflexes are a manifestation of hypomagnesemia (decreased serum magnesium level), not hypokalemia.\n\nEducational objective: Potassium creates an action potential in the membranes of cells that leads to muscle contraction. Hypokalemia is a decreased serum potassium level that can cause life-threatening cardiac dysrhythmias (eg, U wave, ST segment depression, ventricular tachycardia) because of the impaired repolarization phase.",
+    "subtopic": "Hypokalemia"
+  },
+  {
+    "id": 42,
+    "qid": "53017",
+    "week": 2,
+    "weekLabel": "Week 2",
+    "topic": "Fluid, Electrolyte, Acid-Base / Pulmonary",
+    "system": "Fluid and electrolytes",
+    "category": "UWorld practice",
+    "type": "Multiple Choice",
+    "difficulty": "NCLEX-style",
+    "source": "Saved NURS401 UWorld capture: 2026-07-07-uworld-practice-quiz-1-answers.md",
+    "sourceType": "Saved UWorld",
+    "sourceConfidence": "captured-answer-key",
+    "sourceDetail": "UWorld QID 53017",
+    "stem": "The nurse is caring for a client with hypercalcemia. The nurse should recognize that the client is at risk for developing",
+    "options": [
+      "cardiac dysrhythmias and coma",
+      "facial twitching and carpopedal spasms",
+      "facial flushing and urinary retention",
+      "metabolic alkalosis and bronchial spasms"
+    ],
+    "correctAnswers": [
+      "cardiac dysrhythmias and coma"
+    ],
+    "rationale": "Hypercalcemia (ie, serum calcium level >10.5 mg/dL [2.62 mmol/L]) has a sedating effect that results in decreased neuromuscular excitability, leading to smooth, cardiac, and skeletal muscle dysfunction.  Early stages of hypercalcemia present as polydipsia, constipation, fatigue, and weakness.\n\nUntreated, severe hypercalcemia may escalate to seizures, coma, and cardiac dysrhythmias, such as heart block and ventricular tachycardia.  The nurse should frequently monitor the client's neurological status and provide ECG monitoring for a shortened QT interval and ST segment, as well as a prolonged PR interval (Option 1).\n\n(Option 2)  Chvostek sign (ie, facial twitching induced by tapping the facial nerve) and Trousseau sign (ie, carpopedal spasm induced by occlusion of the brachial artery) indicate increased neuromuscular excitability.  Chvostek and Trousseau signs are associated with hypocalcemia, not hypercalcemia.\n\n(Option 3)  Facial flushing and urinary retention are signs of hypermagnesemia; excess serum magnesium inhibits acetylcholine release.\n\n(Option 4)  Metabolic alkalosis and bronchial spasms occur in clients with hypocalcemia.  Metabolic alkalosis occurs due to a lack of ionized calcium in the bloodstream, whereas bronchial spasms occur due to increased neuromuscular irritability.\n\nEducational objective: Hypercalcemia (ie, serum calcium level >10.5 mg/dL [2.62 mmol/L]) has a sedating effect that results in decreased neuromuscular excitability, leading to smooth, cardiac, and skeletal muscle dysfunction. Untreated, severe hypercalcemia may escalate into lethargy, seizures, and cardiac dysrhythmias.",
+    "subtopic": "Hypercalcemia"
+  }
+]
