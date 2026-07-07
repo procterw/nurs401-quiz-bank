@@ -1159,7 +1159,7 @@ function showAnswer(question) {
   el.submit.disabled = true;
 
   el.feedback.className = `feedback ${isCorrect ? "correct" : "incorrect"}`;
-  el.feedback.innerHTML = `<p>${escapeHtml(question.rationale)}</p>`;
+  el.feedback.innerHTML = renderRationale(question.rationale);
   updateQuestionResult(question.id, isCorrect);
   renderProgress();
 }
@@ -1180,7 +1180,7 @@ function showMatchingAnswer(question) {
 
   el.submit.disabled = true;
   el.feedback.className = `feedback ${isCorrect ? "correct" : "incorrect"}`;
-  el.feedback.innerHTML = `<p>${escapeHtml(question.rationale)}</p>`;
+  el.feedback.innerHTML = renderRationale(question.rationale);
   updateQuestionResult(question.id, isCorrect);
   renderProgress();
 }
@@ -1202,9 +1202,19 @@ function showFillAnswer(question) {
 
   el.submit.disabled = true;
   el.feedback.className = `feedback ${isCorrect ? "correct" : "incorrect"}`;
-  el.feedback.innerHTML = `<p>${escapeHtml(question.rationale)}</p>`;
+  el.feedback.innerHTML = renderRationale(question.rationale);
   updateQuestionResult(question.id, isCorrect);
   renderProgress();
+}
+
+function renderRationale(rationale) {
+  const paragraphs = String(rationale ?? "")
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+
+  if (paragraphs.length === 0) return "";
+  return paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("");
 }
 
 function selectNext() {
